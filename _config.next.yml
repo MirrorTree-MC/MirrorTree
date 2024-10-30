@@ -7,7 +7,7 @@
 # ============================================================= #
 
 custom_file_path:
-  sidebar: source/_data/sidebar.njk
+  # sidebar: source/_data/sidebar.njk
   footer: source/_data/footer.njk
   variable: source/_data/variables.styl
   style: source/_data/styles.styl
@@ -40,9 +40,9 @@ creative_commons:
 # ============================================================= #
 
 menu:
-  home: / || fa fa-bell
+  Home: / || fa fa-bell
 
-  Docs:
+  Wiki:
     default: /docs/ || fa fa-book
 
     Getting Started:
@@ -94,10 +94,10 @@ menu:
 
     Troubleshooting: /troubleshooting.html || fa fa-life-ring
 
-  Plugins: /plugins/ || fa fa-flask
-  archives: /archives/ || fa fa-archive
-  #sitemap: /sitemap.xml || fa fa-sitemap
-  #commonweal: /404/ || fa fa-heartbeat
+  # Plugins: /plugins/ || fa fa-flask
+  Archive: /archives/ || fa fa-archive
+  # sitemap: /sitemap.xml || fa fa-sitemap
+  # commonweal: /404/ || fa fa-heartbeat
 
 menu_settings:
   icons: true
@@ -120,8 +120,8 @@ avatar:
 
 social:
   GitHub: https://github.com/next-theme || fab fa-github
-  Crowdin: https://crowdin.com/project/hexo-theme-next || fa fa-globe-asia
-  RSS: /atom.xml || fa fa-rss
+  Map: http://mirror.bearcabbage.top/ || fa fa-globe-asia
+  Story: http://v.bearcabbage.top/index.php/archives/30/ || fa fa-rss
 
 social_icons:
   enable: true
@@ -139,7 +139,7 @@ toc:
 # ============================================================= #
 
 footer:
-  since: 2014
+  since: 2024
   icon:
     name: fa fa-heart
     animated: true
@@ -160,7 +160,7 @@ symbols_count_time:
   item_text_total: true
 
 post_edit:
-  enable: true
+  enable: false
   url: https://github.com/next-theme/theme-next-docs/edit/master/source/
 
 

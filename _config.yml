@@ -3,14 +3,14 @@
 #################################################################
 
 # Site
-title: NexT
-description: NexT - An elegant and powerful theme for Hexo.
-keywords: "Hexo, NexT"
-language: en
+title: 棱镜树
+description: 请坐吧，欢迎来到棱镜树。
+keywords: "Minecraft, MirrorTree"
+language: zh-CN
 timezone: UTC
 
 # URL
-url: https://theme-next.js.org
+url: http://wiki.bearcabbage.top/
 permalink: :title/
 permalink_defaults:
 
@@ -45,6 +45,8 @@ highlight:
   line_number: false
   auto_detect: false
   tab_replace: ''
+cache: true
+minify: true
 
 # Home page setting
 index_generator:
