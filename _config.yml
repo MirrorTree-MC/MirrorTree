@@ -8,6 +8,7 @@ description: Sit down and have a cup of tea?
 keywords: "Minecraft, MirrorTree"
 language: zh-CN
 timezone: UTC
+favicon: /images/favicon.ico
 
 # URL
 url: http://wiki.mirror.bearcabbage.top/

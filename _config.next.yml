@@ -115,7 +115,7 @@ sidebar:
   offset: 12
 
 avatar:
-  url: /images/logo.svg
+  url: images/logo.svg
   rounded: true
 
 social:
