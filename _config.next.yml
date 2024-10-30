@@ -8,7 +8,7 @@
 
 custom_file_path:
   # sidebar: source/_data/sidebar.njk
-  footer: source/_data/footer.njk
+  # footer: source/_data/footer.njk
   variable: source/_data/variables.styl
   style: source/_data/styles.styl
 
@@ -184,7 +184,7 @@ back2top:
   scrollpercent: true
 
 github_banner:
-  enable: true
+  enable: false
   permalink: https://github.com/next-theme/hexo-theme-next
   title: Fork NexT on GitHub
 
@@ -252,7 +252,7 @@ comments:
   lazyload: true
 
 disqus:
-  enable: true
+  enable: false
   shortname: next-theme
   count: true
 
