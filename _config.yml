@@ -10,7 +10,7 @@ language: zh-CN
 timezone: UTC
 
 # URL
-url: http://wiki.bearcabbage.top/
+url: http://wiki.mirror.bearcabbage.top/
 permalink: :title/
 permalink_defaults:
 
