@@ -124,7 +124,8 @@ avatar:
 social:
   GitHub: https://github.com/next-theme || fab fa-github
   Map: http://mirror.bearcabbage.top/ || fa fa-globe-asia
-  Story: http://v.bearcabbage.top/index.php/archives/30/ || fa fa-rss
+  Story: http://v.bearcabbage.top/index.php/archives/30/ || fa fa-tree
+  QQ Group: https://qm.qq.com/q/8YKjmjwnGU || fa fa-rss
 
 social_icons:
   enable: true
