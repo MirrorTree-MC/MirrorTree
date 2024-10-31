@@ -97,13 +97,6 @@ menu:
   News:
     default: /news/ || 	fa fa-newspaper
 
-    Getting Started:
-      default: /getting-started/ || fa fa-flag
-      Installation: /installation.html || fa fa-download
-      Deployment: /deployment.html || fa fa-upload
-      Configuration: /configuration.html || fa fa-wrench
-      Upgrade: /upgrade.html || fa fa-history
-
   # Plugins: /plugins/ || fa fa-flask
   Archive: /archives/ || fa fa-archive
   # sitemap: /sitemap.xml || fa fa-sitemap
