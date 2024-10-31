@@ -122,7 +122,7 @@ avatar:
   rounded: true
 
 social:
-  GitHub: https://github.com/next-theme || fab fa-github
+  GitHub: https://github.com/MirrorTree-MC/MirrorTree || fab fa-github
   Story: http://v.bearcabbage.top/index.php/archives/30/ || fa fa-tree
   Map: http://mirror.bearcabbage.top/ || fa fa-globe-asia
   QQ Group: https://qm.qq.com/q/8YKjmjwnGU || fa fa-rss
@@ -164,8 +164,8 @@ symbols_count_time:
   item_text_total: true
 
 post_edit:
-  enable: false
-  url: https://github.com/next-theme/theme-next-docs/edit/master/source/
+  enable: true
+  url: https://github.com/MirrorTree-MC/MirrorTree/tree/main/source/
 
 
 # ============================================================= #
@@ -189,8 +189,8 @@ back2top:
 
 github_banner:
   enable: false
-  permalink: https://github.com/next-theme/hexo-theme-next
-  title: Fork NexT on GitHub
+  permalink: https://github.com/MirrorTree-MC/MirrorTree
+  title: Follow MirrorTree on GitHub
 
 font:
   enable: true
@@ -259,6 +259,16 @@ disqus:
   enable: false
   shortname: next-theme
   count: true
+
+# Utterances
+# For more information: https://utteranc.es
+utterances:
+  enable: true
+  repo: MirrorTree-MC/MirrorTree # Github repository owner and name
+  # Available values: pathname | url | title | og:title
+  issue_term: title
+  # Available values: github-light | github-dark | preferred-color-scheme | github-dark-orange | icy-dark | dark-blue | photon-dark | boxy-light
+  theme: github-dark
 
 
 # ============================================================= #
