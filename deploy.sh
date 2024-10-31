@@ -6,14 +6,14 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin:$PATH
 export PATH
 
 # https://en.wikipedia.org/wiki/ANSI_escape_code
-#red='\033[0;31m'
-#green='\033[0;32m'
-#brown='\033[0;33m'
-#blue='\033[0;34m'
-#purple='\033[0;35m'
+# red='\033[0;31m'
+# green='\033[0;32m'
+# brown='\033[0;33m'
+# blue='\033[0;34m'
+# purple='\033[0;35m'
 cyan='\033[0;36m'
-#lgray='\033[0;37m'
-#dgray='\033[1;30m'
+# lgray='\033[0;37m'
+# dgray='\033[1;30m'
 lred='\033[1;31m'
 lgreen='\033[1;32m'
 yellow='\033[1;33m'

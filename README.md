@@ -1,8 +1,8 @@
 <a title="NexT website" href="https://theme-next.js.org"><img align="right" alt="NexT logo" width="100" height="100" src="https://raw.githubusercontent.com/next-theme/hexo-theme-next/master/source/images/logo.svg"></a>
 
-# [NexT](https://github.com/next-theme/hexo-theme-next) [Documentation](https://theme-next.js.org)
+# MirrorTree Wiki
 
-> «NexT» is a high quality elegant [Hexo](https://hexo.io) theme. It is crafted from scratch with love.
+> Once upon a time, there was a Mirror Tree.
 
 [![Build Status](https://img.shields.io/netlify/bc28ebb2-8371-4a33-a1eb-e0a15e909168?logo=netlify&style=flat-square)](https://app.netlify.com/sites/hexo-theme-next/deploys)
 
