@@ -17,9 +17,9 @@ custom_file_path:
 # ====================== Scheme Settings ====================== #
 # ============================================================= #
 
-#scheme: Muse
-#scheme: Mist
-#scheme: Pisces
+# scheme: Muse
+# scheme: Mist
+# scheme: Pisces
 scheme: Gemini
 
 darkmode: true
@@ -97,8 +97,8 @@ menu:
   News:
     default: /news/ || 	fa fa-newspaper
 
-  # Plugins: /plugins/ || fa fa-flask
   Archive: /archives/ || fa fa-archive
+  # Plugins: /plugins/ || fa fa-flask
   # sitemap: /sitemap.xml || fa fa-sitemap
   # commonweal: /404/ || fa fa-heartbeat
 
