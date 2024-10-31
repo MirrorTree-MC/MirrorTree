@@ -123,8 +123,8 @@ avatar:
 
 social:
   GitHub: https://github.com/next-theme || fab fa-github
-  Map: http://mirror.bearcabbage.top/ || fa fa-globe-asia
   Story: http://v.bearcabbage.top/index.php/archives/30/ || fa fa-tree
+  Map: http://mirror.bearcabbage.top/ || fa fa-globe-asia
   QQ Group: https://qm.qq.com/q/8YKjmjwnGU || fa fa-rss
 
 social_icons:
@@ -148,7 +148,7 @@ footer:
     name: fa fa-heart
     animated: true
     color: "#808080"
-  copyright: NexT
+  copyright: MirrorTree
 
 
 # ============================================================= #
