@@ -124,13 +124,11 @@ favicon:
   safari_pinned_tab: /images/logo.svg
   android_manifest: /images/manifest.json
 
-custom_logo: /images/custom_logo.jpg
+# custom_logo: /images/custom_logo.jpg
 
 avatar:
-  url: /images/logo.svg
+  url: /images/logo.png
   rounded: true
-
-darkmode: true
 
 social:
   GitHub: https://github.com/MirrorTree-MC/MirrorTree || fab fa-github
