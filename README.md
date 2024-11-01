@@ -1,47 +1,40 @@
-<a title="NexT website" href="https://theme-next.js.org"><img align="right" alt="NexT logo" width="100" height="100" src="https://raw.githubusercontent.com/next-theme/hexo-theme-next/master/source/images/logo.svg"></a>
+<a title="NexT website" href="https://theme-next.js.org"><img align="right" alt="NexT logo" width="120" height="120" src="/source/images/logo.svg"></a>
 
 # MirrorTree Wiki
 
 > Once upon a time, there was a Mirror Tree.
 
-[![Build Status](https://img.shields.io/netlify/bc28ebb2-8371-4a33-a1eb-e0a15e909168?logo=netlify&style=flat-square)](https://app.netlify.com/sites/hexo-theme-next/deploys)
+## About This Repository
 
-## Schemes
-
-* :heart_decoration: [Muse](https://theme-next.js.org/muse/)
-* :six_pointed_star: [Mist](https://theme-next.js.org/mist/)
-* :pisces: [Pisces](https://theme-next.js.org/pisces/)
-* :gemini: [Gemini](https://theme-next.js.org) (**Default**)
-
-## Getting started
-
-Install Hexo & NexT & NexT Website Source on Localhost:
+### File Structure
 
 ```bash
-git clone https://github.com/next-theme/theme-next-docs
-cd theme-next-docs
-npm install
 ```
 
-Generate:
+### Documentation Norm
 
-```bash
-npx hexo generate
+The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document.
+
+### Git Norm
+
+A commit message should be clear and concise in order that problem dealing can be more efficient. It ought to be in the following format:
+
+```git
+<type>(<scoop>): <subject>
+// <BLANK LINE>
+<body>
+// <BLANK LINE>
+<footer>
 ```
 
-Run server:
+- `<type>`: The type of the commit, such as `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`, etc.
+- `<scoop>` (optional) : The scope of the commit, such as `algorithm`, `communication`, `archive`, etc.
+- `<subject>`: A brief summary of the commit. It should be in the imperative mood without `dot (.)` at the end of a line.
+- `<body>` (optional) : A detailed description of the commit.
+- `<footer>` (optional) : A footer for the commit, such as `BREAKING CHANGE`, `ISSUES CLOSED`, etc.
 
-```bash
-npx hexo server
-```
-
-### Checkout docs for older versions
-
-```bash
-git checkout v8.0.0
-npm install
-npx hexo clean
-```
+> [!NOTE]
+> Although pull requests are different from commits, you may follow the same format when writing a pull request.
 
 ## License
 
