@@ -3,7 +3,7 @@
     "name": "Minimal Manifest",
     "version": "1.0.0",
     "description": "A basic example extension with only required keys",
-    "icons": {
+    "array": {
         "16": "images/favicon-16x16-next.png",
         "32": "images/favicon-32x32-next.png"
     }
