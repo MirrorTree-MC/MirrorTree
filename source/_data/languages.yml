@@ -12,5 +12,24 @@ zh-CN:
   menu:
     home: 主页
     wiki: 百科
+
+    Server: 服务器
+    outlook: 信息速览
+    players: 玩家简介
+    history: 活动日志
+
+    Introduction: 入门导引
+    areas: 区域
+    commands: 指令
+    properties: 特性
+    rules: 规则
+
+    Advanced Info: 进阶信息
+    machines: 机器
+    projects: 项目
+
+    Issue: 需求与问题
+
     archive: 归档
     news: 新闻
+    tags: 标签

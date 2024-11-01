@@ -77,6 +77,8 @@ index_generator:
 default_category: uncategorized
 category_map:
 tag_map:
+tag_generator:
+  enable_index_page: true
 
 # Date / Time format
 date_format: YYYY-MM-DD
