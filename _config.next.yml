@@ -47,21 +47,21 @@ menu:
 
     Server:
       default: /server/ || fa fa-star
-      outlook: /server/outlook.html || fa fa-eye
-      players: /server/players.html || fa fa-users
-      history: /server/history.html || fa fa-history
+      outlook: /outlook.html || fa fa-eye
+      players: /players.html || fa fa-users
+      history: /history.html || fa fa-history
 
     Introduction:
       default: /introduction/ || fa fa-flag
-      areas: /introduction/areas.html || fa fa-city
-      commands: /introduction/commands.html || fa fa-terminal
-      properties: /introduction/properties.html || fa fa-cogs
-      rules: /introduction/rules.html || fa fa-balance-scale
+      areas: /areas.html || fa fa-city
+      commands: /commands.html || fa fa-terminal
+      properties: /properties.html || fa fa-cogs
+      rules: /rules.html || fa fa-balance-scale
 
     Advanced Info:
       default: /advanced-info/ || fa fa-rocket
-      machines: /advanced-info/machines.html || fa fa-wrench
-      projects: /advanced-info/projects.html || fa fa-tasks
+      machines: /machines.html || fa fa-wrench
+      projects: /projects.html || fa fa-tasks
 
     Issue: /issue.html || fa fa-bug
 
