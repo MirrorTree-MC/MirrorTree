@@ -1,9 +1,7 @@
 ---
 title: 棱镜树宣传贴
 date: 2024-11-1 01:00:00
-type: tags
-tags:
-  - by BaicaiBear
+author: BaicaiBear
 sticky: 50
 ---
 
