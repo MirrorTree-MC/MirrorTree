@@ -40,64 +40,85 @@ creative_commons:
 # ============================================================= #
 
 menu:
-  Home: / || fa fa-bell
+  home: / || fa fa-bell
 
-  Wiki:
+  wiki:
     default: /docs/ || fa fa-book
 
-    Getting Started:
-      default: /getting-started/ || fa fa-flag
-      Installation: /installation.html || fa fa-download
-      Deployment: /deployment.html || fa fa-upload
-      Configuration: /configuration.html || fa fa-wrench
-      Upgrade: /upgrade.html || fa fa-history
+    Server:
+      default: /server/ || fa fa-star
+      outlook: /outlook.html || fa fa-eye
+      players: /players.html || fa fa-users
+      history: /history.html || fa fa-history
 
-    Theme Settings:
-      default: /theme-settings/ || fa fa-star
-      Sidebar: /sidebar.html || fa fa-bars
-      Footer: /footer.html || fa fa-sticky-note
-      Posts: /posts.html || fa fa-paragraph
-      Custom Pages: /custom-pages.html || fa fa-swatchbook
-      Miscellaneous: /miscellaneous.html || fa fa-university
-      SEO: /seo.html || fa fa-external-link-square-alt
-      i18n: /internationalization.html || fa fa-language
+    Introduction:
+      default: /introduction/ || fa fa-flag
+      areas: /areas.html || fa fa-city
+      commands: /commands.html || fa fa-terminal
+      properties: /properties.html || fa fa-cogs
+      rules: /rules.html || fa fa-balance-scale
 
-    Tag Plugins:
-      default: /tag-plugins/ || fa fa-rocket
-      Button: /button.html || fa fa-cube
-      Caniuse: /caniuse.html || fa fa-signal
-      Group Pictures: /group-pictures.html || fa fa-images
-      Label: /label.html || fa fa-hat-wizard
-      Link Grid: /link-grid.html || fa fa-grip-vertical
-      Mermaid: /mermaid.html || fa fa-project-diagram
-      WaveDrom: /wavedrom.html || fa fa-diagram-predecessor
-      Note: /note.html || fa fa-adjust
-      PDF: /pdf.html || fa fa-file-pdf
-      Tabs: /tabs.html || fa fa-columns
+    Advanced Info:
+      default: /advanced-info/ || fa fa-rocket
+      machines: /machines.html || fa fa-wrench
+      projects: /projects.html || fa fa-tasks
 
-    Third Party Plugins:
-      default: /third-party-services/ || fa fa-puzzle-piece
-      Math Equations: /math-equations.html || fa fa-square-root-alt
-      External Libraries: /external-libraries.html || fa fa-lightbulb
-      Comment Systems: /comments.html || fa fa-comment-alt
-      Post Widgets: /post-widgets.html || fa fa-gift
-      Statistics and Analytics: /statistics-and-analytics.html || fa fa-chart-pie
-      Search Services: /search-services.html || fab fa-algolia
-      Chat Services: /chat-services.html || fa fa-comments
+    Issue: /issue.html || fa fa-bug
 
-    Advanced Settings:
-      default: /advanced-settings/ || fa fa-cog
-      Vendors: /vendors.html || fa fa-plug
-      Custom Files: /custom-files.html || fa fa-palette
-      Injects: injects.html || fa fa-layer-group
-      Front Matter: /front-matter.html || fa fa-edit
+    # Getting Started:
+    #   default: /getting-started/ || fa fa-flag
+    #   Installation: /installation.html || fa fa-download
+    #   Deployment: /deployment.html || fa fa-upload
+    #   Configuration: /configuration.html || fa fa-wrench
+    #   Upgrade: /upgrade.html || fa fa-history
 
-    Troubleshooting: /troubleshooting.html || fa fa-life-ring
+    # Theme Settings:
+    #   default: /theme-settings/ || fa fa-star
+    #   Sidebar: /sidebar.html || fa fa-bars
+    #   Footer: /footer.html || fa fa-sticky-note
+    #   Posts: /posts.html || fa fa-paragraph
+    #   Custom Pages: /custom-pages.html || fa fa-swatchbook
+    #   Miscellaneous: /miscellaneous.html || fa fa-university
+    #   SEO: /seo.html || fa fa-external-link-square-alt
+    #   i18n: /internationalization.html || fa fa-language
 
-  News:
+    # Tag Plugins:
+    #   default: /tag-plugins/ || fa fa-rocket
+    #   Button: /button.html || fa fa-cube
+    #   Caniuse: /caniuse.html || fa fa-signal
+    #   Group Pictures: /group-pictures.html || fa fa-images
+    #   Label: /label.html || fa fa-hat-wizard
+    #   Link Grid: /link-grid.html || fa fa-grip-vertical
+    #   Mermaid: /mermaid.html || fa fa-project-diagram
+    #   WaveDrom: /wavedrom.html || fa fa-diagram-predecessor
+    #   Note: /note.html || fa fa-adjust
+    #   PDF: /pdf.html || fa fa-file-pdf
+    #   Tabs: /tabs.html || fa fa-columns
+
+    # Third Party Plugins:
+    #   default: /third-party-services/ || fa fa-puzzle-piece
+    #   Math Equations: /math-equations.html || fa fa-square-root-alt
+    #   External Libraries: /external-libraries.html || fa fa-lightbulb
+    #   Comment Systems: /comments.html || fa fa-comment-alt
+    #   Post Widgets: /post-widgets.html || fa fa-gift
+    #   Statistics and Analytics: /statistics-and-analytics.html || fa fa-chart-pie
+    #   Search Services: /search-services.html || fab fa-algolia
+    #   Chat Services: /chat-services.html || fa fa-comments
+
+    # Advanced Settings:
+    #   default: /advanced-settings/ || fa fa-cog
+    #   Vendors: /vendors.html || fa fa-plug
+    #   Custom Files: /custom-files.html || fa fa-palette
+    #   Injects: injects.html || fa fa-layer-group
+    #   Front Matter: /front-matter.html || fa fa-edit
+
+    # Troubleshooting: /troubleshooting.html || fa fa-life-ring
+
+  news:
     default: /news/ || 	fa fa-newspaper
 
-  Archive: /archives/ || fa fa-archive
+  archive: /archives/ || fa fa-archive
+
   # Plugins: /plugins/ || fa fa-flask
   # sitemap: /sitemap.xml || fa fa-sitemap
   # commonweal: /404/ || fa fa-heartbeat
@@ -117,8 +138,17 @@ sidebar:
   padding: 18
   offset: 12
 
+favicon:
+  small: /images/favicon-16x16-next.png
+  medium: /images/favicon-32x32-next.png
+  apple_touch_icon: /images/apple-touch-icon-next.png
+  safari_pinned_tab: /images/logo.svg
+  android_manifest: /images/manifest.json
+
+# custom_logo: /images/custom_logo.jpg
+
 avatar:
-  url: /images/logo.svg
+  url: /images/logo.png
   rounded: true
 
 social:
@@ -129,12 +159,12 @@ social:
 
 social_icons:
   enable: true
-  icons_only: true
+  icons_only: false
   transition: true
 
 toc:
   enable: true
-  number: true
+  number: false
   wrap: true
 
 
@@ -157,7 +187,7 @@ footer:
 
 post_meta:
   updated_at:
-    enable: false
+    enable: true
 
 symbols_count_time:
   separated_meta: true
@@ -260,15 +290,22 @@ disqus:
   shortname: next-theme
   count: true
 
-# Utterances
-# For more information: https://utteranc.es
-utterances:
+# Gitalk
+# For more information: https://gitalk.github.io
+gitalk:
   enable: true
-  repo: MirrorTree-MC/MirrorTree # Github repository owner and name
-  # Available values: pathname | url | title | og:title
-  issue_term: title
-  # Available values: github-light | github-dark | preferred-color-scheme | github-dark-orange | icy-dark | dark-blue | photon-dark | boxy-light
-  theme: github-dark
+  github_id: VeriTas-arch
+  repo: MirrorTree
+  client_id: Ov23liMZDtuBO9zagf50
+  client_secret: dbcc95df488111f20fac98defd7e6100a09b0f48
+  admin_user: VeriTas-arch
+  distraction_free_mode: true # Facebook-like distraction free mode
+  # When the official proxy is not available, you can change it to your own proxy address
+  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # This is official proxy address
+  # Gitalk's display language depends on user's browser or system environment
+  # If you want everyone visiting your site to see a uniform language, you can set a force language value
+  # Available values: en | es-ES | fr | ru | zh-CN | zh-TW
+  language: zh-CN
 
 
 # ============================================================= #

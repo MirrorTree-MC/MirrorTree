@@ -16,6 +16,13 @@ favicon:
   safari_pinned_tab: /images/logo.svg
   android_manifest: /images/manifest.json
 
+custom_logo: /images/custom_logo.jpg
+
+avatar:
+  url: /images/logo.svg
+  rounded: true
+
+darkmode: true
 
 # URL
 url: http://wiki.mirror.bearcabbage.top/
@@ -70,6 +77,8 @@ index_generator:
 default_category: uncategorized
 category_map:
 tag_map:
+tag_generator:
+  enable_index_page: true
 
 # Date / Time format
 date_format: YYYY-MM-DD
