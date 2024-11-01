@@ -40,9 +40,9 @@ creative_commons:
 # ============================================================= #
 
 menu:
-  Home: / || fa fa-bell
+  home: / || fa fa-bell
 
-  Wiki:
+  wiki:
     default: /docs/ || fa fa-book
 
     Getting Started:
@@ -94,10 +94,10 @@ menu:
 
     Troubleshooting: /troubleshooting.html || fa fa-life-ring
 
-  News:
+  news:
     default: /news/ || 	fa fa-newspaper
 
-  Archive: /archives/ || fa fa-archive
+  archive: /archives/ || fa fa-archive
   # Plugins: /plugins/ || fa fa-flask
   # sitemap: /sitemap.xml || fa fa-sitemap
   # commonweal: /404/ || fa fa-heartbeat
@@ -117,9 +117,20 @@ sidebar:
   padding: 18
   offset: 12
 
+favicon:
+  small: /images/favicon-16x16-next.png
+  medium: /images/favicon-32x32-next.png
+  apple_touch_icon: /images/apple-touch-icon-next.png
+  safari_pinned_tab: /images/logo.svg
+  android_manifest: /images/manifest.json
+
+custom_logo: /images/custom_logo.jpg
+
 avatar:
   url: /images/logo.svg
   rounded: true
+
+darkmode: true
 
 social:
   GitHub: https://github.com/MirrorTree-MC/MirrorTree || fab fa-github

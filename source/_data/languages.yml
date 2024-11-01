@@ -4,29 +4,13 @@ en:
   author: V.A.
   description: Sit down and have a cup of tea?
 
-ru:
-  name: Русский
-  subtitle: Тема для Hexo
-  author: Тема NexT
-  description: Ставь просто. Ставь NexT.
-  menu:
-    News: Новости
-    Docs: Документация
-    Getting Started: Начало работы
-    Theme Settings: Настройки темы
-    Third Party Plugins: Сторонние приложения
-    Algolia Search: Поиск Algolia
-    Tag Plugins: Плагины тэгов
-    Advanced Settings: Расширенные настройки
-    FAQ's: ЧаВо
-
 zh-CN:
   name: Chinese
   subtitle: 棱镜树的小屋
   author: V.A.
   description: 坐下来喝杯茶吧。
   menu:
-    Home: 主页
-    Wiki: 百科
-    Archive: 归档
-    News: 新闻
+    home: 主页
+    wiki: 百科
+    archive: 归档
+    news: 新闻
