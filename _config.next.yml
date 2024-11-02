@@ -55,7 +55,7 @@ menu:
       default: /introduction/ || fa fa-flag
       areas: /areas.html || fa fa-city
       commands: /commands.html || fa fa-terminal
-      properties: /properties.html || fa fa-cogs
+      features: /features.html || fa fa-cogs
       rules: /rules.html || fa fa-balance-scale
 
     Advanced Info:
