@@ -186,6 +186,7 @@ footer:
 # ============================================================= #
 
 post_meta:
+  categories: true
   updated_at:
     enable: true
 
