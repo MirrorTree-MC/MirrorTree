@@ -6,14 +6,33 @@
 
 ## About This Repository
 
-### File Structure
+> [!NOTE]
+> Contributors ought to look through this section throughly before editing the website.
+
+### Core File Structure
 
 ```bash
+.
+├── source
+│   ├── _posts # common posts
+│   ├── docs   # documentation
+│   │   ├── server        # culture of the server
+│   │   ├── introduction  # introduction for freshers
+│   │   ├── advanced-info # advanced information
+│   │   └── issue.md      # problem solving
+│   └── news   # mirror news
+├── .gitignore
+├── _config.next.yml # configuration of NexT theme
+├── _config.yml      # configuration of Hexo
+└──  README.md       # guidelines for contributors
 ```
 
 ### Documentation Norm
 
 The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document.
+
+> [!TIP]
+> Trick-playing is recommended when writing a document.
 
 ### Git Norm
 
