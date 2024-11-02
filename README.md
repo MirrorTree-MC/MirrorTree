@@ -9,6 +9,21 @@
 > [!WARNING]
 > Contributors ought to look through this section throughly before editing the website.
 
+### Local Deployment
+
+You may follow the steps below to deploy the website locally. Node.js is required for the deployment.
+
+```bash
+# clone the repository
+git clone https://github.com/MirrorTree-MC/MirrorTree.git
+cd MirrorTree
+npm install
+
+# start the server
+hexo g -d
+hexo s
+```
+
 ### Core File Structure
 
 ```bash
