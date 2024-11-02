@@ -6,7 +6,7 @@
 
 ## About This Repository
 
-> [!NOTE]
+> [!WARNING]
 > Contributors ought to look through this section throughly before editing the website.
 
 ### Core File Structure
@@ -26,6 +26,9 @@
 ├── _config.yml      # configuration of Hexo
 └──  README.md       # guidelines for contributors
 ```
+
+> [!NOTE]
+> Given that [Hexo](https://hexo.io/) has its own specific file structure when deploying a website, you may refer to the `pbulic` folder in the root directory as a reference while using internal links. In other words, it is the actual root directory of the internal links.
 
 ### Documentation Norm
 

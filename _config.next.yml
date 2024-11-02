@@ -179,6 +179,7 @@ footer:
     animated: true
     color: "#808080"
   copyright: MirrorTree
+  powered: Powered by <a href="https://hexo.io" target="_blank">Hexo</a> | Theme - <a href="https://theme-next.js.org/" target="_blank">NexT.Gemini</a>
 
 
 # ============================================================= #

@@ -33,3 +33,7 @@ zh-CN:
     archive: 归档
     news: 新闻
     tags: 标签
+
+  footer:
+    powered: 由 <a href="https://hexo.io" target="_blank">Hexo</a> 驱动 | 主题 - <a href="https://theme-next.js.org/" target="_blank">NexT.Gemini</a>
+
