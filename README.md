@@ -11,7 +11,7 @@
 
 ### Local Deployment
 
-You may follow the steps below to deploy the website locally. Node.js is required for the deployment.
+You may follow the steps below to deploy the website locally. [Node.js](https://nodejs.org/zh-cn) is required for the deployment.
 
 ```bash
 # clone the repository and install the dependencies
@@ -43,14 +43,14 @@ hexo s
 ```
 
 > [!NOTE]
-> Given that [Hexo](https://hexo.io/) has its own specific file structure when deploying a website, you may refer to the `pbulic` folder in the root directory as a reference while using internal links. In other words, it is the actual root directory of the internal links.
+> Given that [Hexo](https://hexo.io/) has its own specific file structure when deploying a website, you may refer to the `pbulic` folder in the root directory as a reference while using internal links, which is the actual root directory of the internal links.
 
 ### Documentation Norm
 
-The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document.
+The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document. Note that we use `###` as the top level heading in markdown posts, and that to insert a space between Chinese and English words is strongly recommended.
 
 > [!TIP]
-> Trick-playing is recommended when writing a document.
+> Trick-playing is recommended when writing a document, which means your expressions needn't be that *wikism*.
 
 ### Git Norm
 
