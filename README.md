@@ -14,12 +14,12 @@
 You may follow the steps below to deploy the website locally. Node.js is required for the deployment.
 
 ```bash
-# clone the repository
+# clone the repository and install the dependencies
 git clone https://github.com/MirrorTree-MC/MirrorTree.git
 cd MirrorTree
 npm install
 
-# start the server
+# start the local server
 hexo g -d
 hexo s
 ```
@@ -76,3 +76,9 @@ A commit message should be clear and concise in order that problem dealing can b
 ## License
 
 [![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+```plaintext
+Copyright (c) 2024 MirrorTree
+Current version is Type M Edition 0.10
+2024.11.2
+```
