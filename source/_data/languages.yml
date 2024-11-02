@@ -19,14 +19,14 @@ zh-CN:
     history: 活动日志
 
     Introduction: 入门导引
-    areas: 区域
-    commands: 指令
-    features: 特性
-    rules: 规则
+    areas: 区域信息
+    commands: 指令详解
+    features: 你服特性
+    rules: 规则说明
 
     Advanced Info: 进阶信息
-    machines: 机器
-    projects: 项目
+    machines: 机器介绍
+    projects: 工程项目
 
     Issue: 问题反馈
 
