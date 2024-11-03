@@ -78,7 +78,15 @@ default_category: uncategorized
 category_map:
 tag_map:
 tag_generator:
-  enable_index_page: true
+  enable_index_page: false
+
+# TagCloud settings for tags page.
+tagcloud:
+  min: 12 # Minimum font size in px
+  max: 30 # Maximum font size in px
+  amount: 200 # Total amount of tags
+  orderby: name # Order of tags
+  order: 1 # Sort order
 
 # Date / Time format
 date_format: YYYY-MM-DD
