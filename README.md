@@ -12,17 +12,17 @@ The MirrorTree Wiki is currently organized following the diagram below.
 mindmap
   root((MirrorWiki))
     id{{server culture}}
-      id[world view]
+      id[outlook]
       id[player list]
-      id[activity record]
+      id[activity]
     id{{introduction}}
       id[getting started]
-      id[area and structure]
+      id[area and structs]
       id[command list]
       id[feature collection]
       id[rule and regulation]
     id{{advanced info}}
-      id[machine documentation]
+      id[machine docs]
       id[project update]
     id{{issue report}}
 ```
