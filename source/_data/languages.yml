@@ -13,23 +13,27 @@ zh-CN:
     home: 主页
     wiki: 百科
 
-    Server: 棱镜树
-    outlook: 信息速览
+    Server: 你服文化
+    outlook: 世界观
     players: 玩家简介
     history: 活动日志
 
     Introduction: 入门导引
-    areas: 区域
-    commands: 指令
-    properties: 特性
-    rules: 规则
+    areas: 区域信息
+    commands: 指令详解
+    features: 你服特性
+    rules: 规则说明
 
     Advanced Info: 进阶信息
-    machines: 机器
-    projects: 项目
+    machines: 机器介绍
+    projects: 工程项目
 
     Issue: 问题反馈
 
     archive: 归档
     news: 新闻
     tags: 标签
+
+  footer:
+    powered: 由 <a href="https://hexo.io" target="_blank">Hexo</a> 驱动 | 主题 - <a href="https://theme-next.js.org/" target="_blank">NexT.Gemini</a>
+

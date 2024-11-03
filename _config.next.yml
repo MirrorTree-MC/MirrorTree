@@ -55,7 +55,7 @@ menu:
       default: /introduction/ || fa fa-flag
       areas: /areas.html || fa fa-city
       commands: /commands.html || fa fa-terminal
-      properties: /properties.html || fa fa-cogs
+      features: /features.html || fa fa-cogs
       rules: /rules.html || fa fa-balance-scale
 
     Advanced Info:
@@ -179,6 +179,7 @@ footer:
     animated: true
     color: "#808080"
   copyright: MirrorTree
+  powered: Powered by <a href="https://hexo.io" target="_blank">Hexo</a> | Theme - <a href="https://theme-next.js.org/" target="_blank">NexT.Gemini</a>
 
 
 # ============================================================= #
