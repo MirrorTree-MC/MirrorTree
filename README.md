@@ -80,7 +80,7 @@ The documentation should be clear and concise in order that problem dealing can 
 
 A commit message should be clear and concise in order that problem dealing can be more efficient. It ought to be in the following format:
 
-```bash
+```git
 <type>(<scoop>): <subject>
 // <BLANK LINE>
 <body>
