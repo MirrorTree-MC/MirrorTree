@@ -11,20 +11,19 @@ The MirrorTree Wiki is currently organized following the diagram below.
 ```mermaid
 mindmap
   root((MirrorWiki))
-    id{{server culture}}
+    id(server culture)
       id[outlook]
       id[player list]
       id[activity]
-    id{{introduction}}
-      id[getting started]
+    id(introduction)
       id[area and structs]
-      id[command list]
+      id[command docs]
       id[feature collection]
-      id[rule and regulation]
-    id{{advanced info}}
-      id[machine docs]
-      id[project update]
-    id{{issue report}}
+      id[regulation]
+    id(advances)
+      id[machine documentation]
+      id[project publicity]
+    id(issue report)
 ```
 
 ## About This Repository
@@ -36,14 +35,14 @@ mindmap
 
 You may follow the steps below to deploy the website locally. [Node.js](https://nodejs.org/zh-cn) is required for the deployment.
 
-```powershell copy
+```bash copy
 # clone the repository and install the dependencies
 git clone https://github.com/MirrorTree-MC/MirrorTree.git
 cd MirrorTree
 npm install
 ```
 
-```powershell copy
+```bash copy
 # start the local server
 hexo clean; hexo g -d
 hexo s
