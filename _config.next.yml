@@ -139,7 +139,12 @@ sidebar:
   padding: 18
   offset: 12
 
-favicon: favicon.ico
+favicon:
+  small: /favicon-16x16-next.png
+  medium: /favicon-32x32-next.png
+  apple_touch_icon: /apple-touch-icon-next.png
+  safari_pinned_tab: /logo.svg
+  android_manifest: /manifest.json
 
 # custom_logo: /images/custom_logo.jpg
 
