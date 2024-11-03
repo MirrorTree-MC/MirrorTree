@@ -71,7 +71,7 @@ hexo s
 
 ### Documentation Norm
 
-The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document. Note that we use `###` as the top level heading in markdown posts, and that to insert a space between Chinese and English words is strongly recommended.
+The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document. Note that we use `###` instead of `#` as the top level heading in markdown posts, and that to insert a space between Chinese and English words is strongly recommended.
 
 > [!TIP]
 > Trick-playing is recommended when writing a document, indicating your expressions needn't be that *wikism*.
@@ -80,7 +80,7 @@ The documentation should be clear and concise in order that problem dealing can 
 
 A commit message should be clear and concise in order that problem dealing can be more efficient. It ought to be in the following format:
 
-```git
+```bash
 <type>(<scoop>): <subject>
 // <BLANK LINE>
 <body>
