@@ -10,20 +10,20 @@ The MirrorTree Wiki is currently organized following the diagram below.
 
 ```mermaid
 mindmap
-  root((wiki))
+  root((MirrorWiki))
     id{{server culture}}
-      id[outlook]
-      id[players]
+      id[world view]
+      id[player list]
       id[activity record]
     id{{introduction}}
       id[getting started]
-      id[areas]
-      id[commands]
-      id[features]
-      id[rules]
+      id[area and structure]
+      id[command list]
+      id[feature collection]
+      id[rule and regulation]
     id{{advanced info}}
-      id[machines]
-      id[projects]
+      id[machine documentation]
+      id[project update]
     id{{issue report}}
 ```
 
