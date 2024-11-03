@@ -11,7 +11,7 @@
 > Once upon a time, there was a Mirror Tree.
 
 ## Introduction
-CC BY-NC-SA 4.0
+
 The MirrorTree Wiki is currently organized following the diagram below.
 
 ```mermaid
