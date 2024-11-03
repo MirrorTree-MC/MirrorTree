@@ -2,6 +2,9 @@
 
 # MirrorTree Wiki
 
+[![CodeQL](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/github-code-scanning/codeql)
+[![Deploy Hexo site to Pages](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml/badge.svg)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml)
+
 > Once upon a time, there was a Mirror Tree.
 
 ## Introduction
