@@ -1,4 +1,4 @@
-<a title="MirrorTree Wiki" href="wiki.mirror.bearcabbage.top/"><img align="right" alt="MirrorTree logo" width="120" height="120" src="/source/images/logo.svg"></a>
+<a title="MirrorTree Wiki" href="https://wiki.mirror.bearcabbage.top/"><img align="right" alt="MirrorTree logo" width="120" height="120" src="/source/images/logo.svg"></a>
 
 # MirrorTree Wiki
 
