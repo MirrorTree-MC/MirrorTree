@@ -4,6 +4,29 @@
 
 > Once upon a time, there was a Mirror Tree.
 
+## Introduction
+
+The MirrorTree Wiki is currently organized following the diagram below.
+
+```mermaid
+mindmap
+  root((wiki))
+    id{{server culture}}
+      id[outlook]
+      id[players]
+      id[activity record]
+    id{{introduction}}
+      id[getting started]
+      id[areas]
+      id[commands]
+      id[features]
+      id[rules]
+    id{{advanced info}}
+      id[machines]
+      id[projects]
+    id{{issue report}}
+```
+
 ## About This Repository
 
 > [!WARNING]
