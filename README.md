@@ -2,13 +2,16 @@
 
 # MirrorTree Wiki
 
+[![NPM version](https://img.shields.io/npm/v/hexo-theme-next?color=red&logo=npm&style=flat-square)](https://www.npmjs.com/package/hexo-theme-next)
+[![Required Hexo version](https://img.shields.io/badge/hexo-%3E=5.3.0-blue?style=flat-square&logo=hexo)](https://hexo.io)
 [![CodeQL](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/github-code-scanning/codeql)
 [![Deploy Hexo site to Pages](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml/badge.svg)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml)
+[![GitHub license](https://img.shields.io/badge/license-CC_4.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 > Once upon a time, there was a Mirror Tree.
 
 ## Introduction
-
+CC BY-NC-SA 4.0
 The MirrorTree Wiki is currently organized following the diagram below.
 
 ```mermaid
