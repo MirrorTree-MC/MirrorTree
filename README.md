@@ -13,14 +13,16 @@
 
 You may follow the steps below to deploy the website locally. [Node.js](https://nodejs.org/zh-cn) is required for the deployment.
 
-```bash
+```powershell copy
 # clone the repository and install the dependencies
 git clone https://github.com/MirrorTree-MC/MirrorTree.git
 cd MirrorTree
 npm install
+```
 
+```powershell copy
 # start the local server
-hexo g -d
+hexo clean; hexo g -d
 hexo s
 ```
 
@@ -43,14 +45,14 @@ hexo s
 ```
 
 > [!NOTE]
-> Given that [Hexo](https://hexo.io/) has its own specific file structure when deploying a website, you may refer to the `pbulic` folder in the root directory as a reference while using internal links, which is the actual root directory of the internal links.
+> Given that [Hexo](https://hexo.io/) has its own specific file structure as deploying a website, you may refer to the `pbulic` folder in the root directory as a reference while using internal links, which is the actual root directory of the internal links.
 
 ### Documentation Norm
 
 The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document. Note that we use `###` as the top level heading in markdown posts, and that to insert a space between Chinese and English words is strongly recommended.
 
 > [!TIP]
-> Trick-playing is recommended when writing a document, which means your expressions needn't be that *wikism*.
+> Trick-playing is recommended when writing a document, indicating your expressions needn't be that *wikism*.
 
 ### Git Norm
 
@@ -71,7 +73,7 @@ A commit message should be clear and concise in order that problem dealing can b
 - `<footer>` (optional) : A footer for the commit, such as `BREAKING CHANGE`, `ISSUES CLOSED`, etc.
 
 > [!NOTE]
-> Although pull requests are different from commits, you may follow the same format when writing a pull request.
+> Although pull requests are different from commits, you may follow the same format while writing a pull request.
 
 ## License
 
