@@ -1,5 +1,5 @@
 {
-  "commands-show-output": false,
-  "line-length": false,
-  "no-bare-urls": false
+    "commands-show-output": false,
+    "line-length": false,
+    "no-bare-urls": false
 }
