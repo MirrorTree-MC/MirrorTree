@@ -79,6 +79,8 @@ category_map:
 tag_map:
 tag_generator:
   enable_index_page: false
+  per_page: 10
+  order_by: -date
 
 # TagCloud settings for tags page.
 tagcloud:
