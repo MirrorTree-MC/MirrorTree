@@ -4,7 +4,10 @@ name: Deploy Hexo site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: [$default-branch]
+    branches: 'main'
+  # pull_request:
+  schedule:
+    - cron: '30 19 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
