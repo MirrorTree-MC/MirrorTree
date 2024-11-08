@@ -34,7 +34,7 @@ mindmap
 
 ## About This Repository
 
-> [!WARNING]
+> [!CAUTION]
 > Contributors ought to look through this section throughly before editing the website.
 
 ### Local Deployment
