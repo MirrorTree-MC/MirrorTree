@@ -10,11 +10,11 @@ language: zh-CN
 timezone: UTC
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
-  android_manifest: /images/manifest.json
+  small: /favicon-16x16-next.png
+  medium: /favicon-32x32-next.png
+  apple_touch_icon: /apple-touch-icon-next.png
+  safari_pinned_tab: /logo.svg
+  android_manifest: /manifest.json
 
 custom_logo: /images/custom_logo.jpg
 
@@ -78,7 +78,17 @@ default_category: uncategorized
 category_map:
 tag_map:
 tag_generator:
-  enable_index_page: true
+  enable_index_page: false
+  per_page: 10
+  order_by: -date
+
+# TagCloud settings for tags page.
+tagcloud:
+  min: 12 # Minimum font size in px
+  max: 30 # Maximum font size in px
+  amount: 200 # Total amount of tags
+  orderby: name # Order of tags
+  order: 1 # Sort order
 
 # Date / Time format
 date_format: YYYY-MM-DD

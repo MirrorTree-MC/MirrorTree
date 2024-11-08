@@ -31,7 +31,7 @@ darkmode: true
 
 creative_commons:
   license: by-nc-sa
-  size: big
+  size: small
   sidebar: true
 
 
@@ -117,7 +117,8 @@ menu:
   news:
     default: /news/ || 	fa fa-newspaper
 
-  archive: /archives/ || fa fa-archive
+  archives: /archives/ || fa fa-archive
+  tags: /tags/ || fa fa-tags
 
   # Plugins: /plugins/ || fa fa-flask
   # sitemap: /sitemap.xml || fa fa-sitemap
@@ -139,11 +140,11 @@ sidebar:
   offset: 12
 
 favicon:
-  small: /images/favicon-16x16-next.png
-  medium: /images/favicon-32x32-next.png
-  apple_touch_icon: /images/apple-touch-icon-next.png
-  safari_pinned_tab: /images/logo.svg
-  android_manifest: /images/manifest.json
+  small: /favicon-16x16-next.png
+  medium: /favicon-32x32-next.png
+  apple_touch_icon: /apple-touch-icon-next.png
+  safari_pinned_tab: /logo.svg
+  android_manifest: /manifest.json
 
 # custom_logo: /images/custom_logo.jpg
 
@@ -164,7 +165,7 @@ social_icons:
 
 toc:
   enable: true
-  number: false
+  number: true
   wrap: true
 
 
