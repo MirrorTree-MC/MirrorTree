@@ -3,7 +3,17 @@ title: 名人堂
 date: 2024-11-2 00:00:00
 ---
 
-玩家个人信息介绍。
+### 概要
+
+这里是棱镜树的玩家个人信息介绍。
+
+| ID | 名 | 称号 | 加入时间 | 注 |
+|:--:|:--:|:--:|:--:|:--:|
+| [AC_Mnky](#AC) | AC | 地下工作者 | 2024年 | AC is watching you |
+| [BaicaiBear](#小熊白菜) | 小熊白菜 | 腐竹 | 2024年 | |
+| [YBJinOH](#YBJinOH) | ybj | 高铁 启动！ | 2024年 | |
+| [Horizon4003](#Horizon4003) | Horizon | 憨憨 | 2024年 | |
+| [VichainLee](#VichainLee) | lyc | 腐竹 | 2024年 | |
 
 ### AC
 
