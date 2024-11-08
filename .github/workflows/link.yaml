@@ -1,10 +1,9 @@
 name: Links
 
 on:
+  # since the reference codes has too many bad links, this action shall be triggered manually.
   repository_dispatch:
   workflow_dispatch:
-  schedule:
-    - cron: '30 19 * * *'
 
 jobs:
   linkChecker:
