@@ -22,3 +22,21 @@ date: 2024-11-1 01:00:00
 #### 末地城（the Terminals）
 
 末地城建立在末地区域主岛上空，目前以守望者尖塔（Watcher's Spire）为核心建筑。其处于筹划早期阶段（目前发展重点在于工业系统建立，建筑暂缓）。
+
+### 交通信息
+
+介绍服务器各区域之间的交通方式。
+
+#### 广重36号
+
+- 乘车须知：欢迎乘坐广重36号列车，请勿于中途下车，谢谢您的配合。
+- 列车信息
+  - Departure: Central Station
+  - Terminal Station: End Land
+- 版本信息
+
+    ```plaintext
+    Copyright (c) 2024 Veritas
+    Current version is Type V Edition 4.25
+    2024.9.25
+    ```
