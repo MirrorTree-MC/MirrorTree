@@ -14,17 +14,17 @@ date: 2024-11-1 01:00:00
 
 ### 入门导引
 
-- [总览](/docs/introduction/index.html)
-- [区域](/docs/introduction/areas.html)
-- [指令](/docs/introduction/commands.html)
-- [特性](/docs/introduction/features.html)
-- [规则](/docs/introduction/rules.html)
+- [新手导引](/docs/introduction/index.html)
+- [区域信息](/docs/introduction/areas.html)
+- [指令详解](/docs/introduction/commands.html)
+- [服务器特性](/docs/introduction/features.html)
+- [规则说明](/docs/introduction/rules.html)
 
 ### 进阶信息
 
-- [总览](/docs/advanced-info/index.html)
-- [机器](/docs/advanced-info/machines.html)
-- [项目](/docs/advanced-info/projects.html)
+- [发展类信息总览](/docs/advanced-info/index.html)
+- [机器介绍](/docs/advanced-info/machines.html)
+- [工程项目](/docs/advanced-info/projects.html)
 
 ### 问题反馈
 
