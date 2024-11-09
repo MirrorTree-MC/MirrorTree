@@ -77,7 +77,7 @@ hexo s
 
 ### Documentation Norm
 
-The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document. Note that we use `###` instead of `#` as the top level heading in markdown posts, and that to insert a space between Chinese and English words is strongly recommended.
+The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document. Note that we use `###` instead of `#` as the top level heading in markdown posts, and that to insert a space between Chinese and English words is strongly recommended. See [Chinese Documentation Style Guide with Markdown](https://zhuanlan.zhihu.com/p/144446995) for more information.
 
 > [!TIP]
 > Trick-playing is recommended when writing a document, indicating your expressions needn't be that *wikism*.
