@@ -41,7 +41,9 @@ author: [Veritas, AC]
 - 管理员：Veritas
 - 地点：主世界-旧城区中央下方
 - 注意事项：勿将绿宝石消耗殆尽，定期补充。
-- 说明：大型奴隶交易市场。
+- 说明：
+  - 大型奴隶交易市场。
+  - [商品目录](/docs/advanced-info/trade-center.html)
 
 #### 刷铁机
 
