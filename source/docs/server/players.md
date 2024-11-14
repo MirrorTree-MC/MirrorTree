@@ -14,6 +14,7 @@ date: 2024-11-2 00:00:00
 | [YBJinOH](#YBJinOH) | ybj | 高铁 启动！ | 2024年 | |
 | [Horizon4003](#Horizon4003) | Horizon | 憨憨 | 2024年 | |
 | [VichainLee](#VichainLee) | lyc | 腐竹 | 2024年 | |
+| [veritas_k](https://www.bilibili.com/video/BV1GJ411x7h7/) | Veritas | 世界的调律者 | 2024年 | main contributor of this wiki |
 
 ### AC
 
