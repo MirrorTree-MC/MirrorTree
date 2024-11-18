@@ -1,7 +1,7 @@
 ---
 title: 万圣节活动
 date: 2024-11-4 00:00:00
-sticky: 70
+sticky: 0
 tags:
   - 活动日志
 ---
