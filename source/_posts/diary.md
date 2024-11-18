@@ -12,6 +12,8 @@ tags:
 
 另外，我只看聊天，所以只要你不说我就不知道你做了什么。是的，我真的不知道。你在怀疑什么？
 
+![ac_is_watching_you](/images/post_img/ac.jpg)
+
 ### 11月17日
 
 Veritas 建议大家不要在机器旁边乱放箱子。之后，xxbc 弄丢了一堆箱子。
