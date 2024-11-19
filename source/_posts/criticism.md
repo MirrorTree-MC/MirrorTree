@@ -63,3 +63,9 @@ tags:
 [小熊白菜](/docs/server/players.html#小熊白菜)反复申明，他支持小屋的建设，尊重建设者的劳动，并且愿意参与到小屋内容的撰写充实中来 ~~(这篇[《批判》](/criticism)也算是充实内容吧awa)~~！以上的内容是其提出的 ~~（或许是）~~ 建设性意见，不要因此[炖了小熊做汤](/news/mt19.html)啊啊啊啊啊啊啊啊x
 
 ![小熊捅刀子awa](https://cos.bearcabbage.top/wp-content/uploads/2024/11/IMG_6418.gif)
+
+### 各方反馈
+
+#### [VichainLee](/docs/server/players.html#VichainLee) 24.11.19
+
+提议很有效，我认可小熊白菜的全部提议awa
