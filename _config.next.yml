@@ -304,7 +304,7 @@ changyan:
 # For more information: https://waline.js.org, https://github.com/walinejs/waline
 waline:
   enable: true #是否开启
-  serverURL: https://gko3bxqu.api.lncldglobal.com # 服务端地址，我们这里就是上面部署的 Vercel 地址
+  serverURL: mysql://3A4t9gFMEeaynrR.root:vy2oolVGfY34Yigc@gateway01.us-east-1.prod.aws.tidbcloud.com:4000/waline?ssl={"rejectUnauthorized":true} # 服务端地址，我们这里就是上面部署的 Vercel 地址
   placeholder: 请文明评论呀 #评论框的默认文字
   avatar: mm # 头像风格
   meta: [nick, mail, link] # 自定义评论框上面的三个输入框的内容
