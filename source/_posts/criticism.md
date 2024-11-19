@@ -69,3 +69,7 @@ tags:
 #### [VichainLee](/docs/server/players.html#VichainLee) 24.11.19
 
 提议很有效，我认可小熊白菜的全部提议awa
+
+### 后续
+
+24.11.19: [Veritas](/docs/server/players.html#概要)把这篇文章转载到了群里，[小熊白菜](/docs/server/players.html#小熊白菜)决定装死x
