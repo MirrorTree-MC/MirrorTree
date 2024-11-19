@@ -289,8 +289,8 @@ comments:
   lazyload: true
 
 disqus:
-  enable: false
-  shortname: next-theme
+  enable: true
+  shortname: wiki-mirror-tree
   count: true
 
 # Gitalk
