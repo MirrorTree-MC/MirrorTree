@@ -289,8 +289,15 @@ comments:
   lazyload: true
 
 disqus:
-  enable: true
+  enable: false
   shortname: wiki-mirror-tree
+  count: true
+
+# changyan
+changyan:
+  enable: true
+  appid: cyxBIboIr
+  appkey: 953df9d73132412dc9f6fc627059d646
   count: true
 
 # Gitalk
