@@ -12,7 +12,7 @@ tags:
 
 另外，我只看聊天，所以只要你不说我就不知道你做了什么。是的，我真的不知道。你在怀疑什么？
 
-![ac_is_watching_you](/images/post_img/watching.jpg)
+![ac_is_watching_you](/images/post_img/watching.png)
 
 ### 11月17日
 
