@@ -20,4 +20,4 @@ sticky: 90
 
 〖赞美 Veritas！〗
 
-- 另请参见：xxbc的反动言论[《对“棱镜树的小屋”作为Wiki网站的三点批判》](/criticsim)
+- 另请参见：xxbc的反动言论[《对“棱镜树的小屋”作为Wiki网站的三点批判》](/criticism)
