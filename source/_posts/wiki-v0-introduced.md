@@ -17,3 +17,5 @@ sticky: 90
 - Talk is cheap. 好用就行（编不出来了，摆烂）
 
 〖赞美 Veritas！〗
+
+- 另请参见：xxbc 的反动言论[《对“棱镜树的小屋”作为 Wiki 网站的三点批判》](/criticism)
