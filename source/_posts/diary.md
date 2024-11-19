@@ -12,7 +12,7 @@ tags:
 
 另外，我只看聊天，所以只要你不说我就不知道你做了什么。是的，我真的不知道。你在怀疑什么？
 
-![ac_is_watching_you](/images/post_img/ac.jpg)
+![ac_is_watching_you](/images/post_img/watching.png)
 
 ### 11月17日
 
@@ -29,3 +29,11 @@ CLANNAD 发现了新（旧）大陆。
 xxbchh。
 
 BaicaiBear : 我好懒惰。
+
+### 11月19日  〖说明一下，不知道为什么，昨天的日记被xxbc写了。（当然，欢迎任何人来写。）〗
+
+CLANNAD 在新（？）大陆进行了建设。
+
+xxbc对棱镜树wiki的形式进行了[全面批判](/criticism)。
+
+Hor 研制了新的■■■■。
