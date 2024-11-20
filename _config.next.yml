@@ -287,7 +287,6 @@ motion:
 
 comments:
   lazyload: true
-  active: valine
 
 disqus:
   enable: false
