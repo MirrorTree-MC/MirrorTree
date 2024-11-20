@@ -303,7 +303,7 @@ changyan:
 
 # Isso
 # For more information: https://isso-comments.de
-isso: https://comments.mirror.bearcabbage.top/
+isso: https://comments.mirror.bearcabbage.top/ # <data-isso>
 
 # Gitalk
 # For more information: https://gitalk.github.io
