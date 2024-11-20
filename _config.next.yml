@@ -302,7 +302,7 @@ changyan:
 
 # Isso
 # For more information: https://isso-comments.de
-isso: http://comments.mirror.bearcabbage.top/ # <data_isso>
+isso: http://comments.mirror.bearcabbage.top/js/embed.min.js 
 
 # Gitalk
 # For more information: https://gitalk.github.io
