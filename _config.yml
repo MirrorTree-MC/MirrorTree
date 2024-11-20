@@ -22,8 +22,6 @@ avatar:
   url: /images/logo.svg
   rounded: true
 
-darkmode: true
-
 # URL
 url: http://wiki.mirror.bearcabbage.top/
 permalink: :title/
