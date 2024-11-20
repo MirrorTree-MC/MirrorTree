@@ -36,6 +36,14 @@ BaicaiBear : 我好懒惰。
 
 CLANNAD 在新（？）大陆进行了建设。
 
-xxbc对棱镜树wiki的形式进行了[全面批判](/criticism)。
+xxbc 对棱镜树 Wiki 的形式进行了[全面批判](/criticism)。
 
 Hor 研制了新的■■■■。
+
+### 11月20日
+
+xxbc 搭建了心心念念的 基于 MediaWiki 的 [Wiki](https://wiki-mirror.bearcabbage.top/index.php?title=%E5%B0%8F%E7%86%8A%E7%99%BD%E8%8F%9C%E7%9A%84%E7%8B%AC%E8%A3%81%E5%A4%A7%E5%AF%84) 站点。
+
+ybj 开始禁欲。
+
+小熊白菜的独裁被揭发了。
