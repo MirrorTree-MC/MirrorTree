@@ -6,25 +6,7 @@ sticky: 90
 
 ### Release v0
 
-棱镜树 Wiki v0 版本现已完成框架搭建，欢迎大家多多 ~~打黑工~~ 参与 Wiki 的编写（其中 [Wiki](/docs/index.md) 部分的目录结构如下所示。）。我们将会在该 Wiki 中记录 [服务器游玩基本指南](/docs/introduction/index.md) 与（可能存在的）[服务器特性列表](/docs/introduction/features.md) 以便于大家 ~~熊服~~ 游玩。同时，我们也会在 [新闻](/news) 页面中发布枫糖新闻周刊与精选集（关于报纸屋选集的发布方案仍然在讨论中），欢迎各位关注。
-
-```mermaid
-mindmap
-  root((MirrorWiki))
-    id(server culture)
-      id[outlook]
-      id[player list]
-      id[activity]
-    id(introduction)
-      id[area and structs]
-      id[command docs]
-      id[feature collection]
-      id[regulation]
-    id(advances)
-      id[machine documentation]
-      id[project publicity]
-    id(issue report)
-```
+棱镜树 Wiki v0 版本现已完成框架搭建，欢迎大家多多 ~~打黑工~~ 参与 Wiki 的编写。我们将会在该 Wiki 中记录 [服务器游玩基本指南](/docs/introduction/index.md) 与（可能存在的）[服务器特性列表](/docs/introduction/features.md) 以便于大家 ~~熊服~~ 游玩。同时，我们也会在 [新闻](/news) 页面中发布枫糖新闻周刊与精选集（关于报纸屋选集的发布方案仍然在讨论中），欢迎各位关注。
 
 ### 另
 

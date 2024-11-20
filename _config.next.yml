@@ -275,8 +275,13 @@ tabs:
     tabs: true
     labels: true
 
+# Mermaid tag
 mermaid:
   enable: true
+  # Available themes: default | dark | forest | neutral
+  theme:
+    light: default
+    dark: dark
 
 wavedrom:
   enable: true
