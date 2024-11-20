@@ -39,8 +39,7 @@
         "hexo-server": "3.0.0",
         "hexo-tag-embed": "1.0.0",
         "hexo-theme-next": "8.20.0",
-        "mysql2": "^3.11.4",
-        "valine": "^1.4.14"
+        "mysql2": "^3.11.4"
     },
     "devDependencies": {
         "markdownlint-cli": "0.40.0"

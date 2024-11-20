@@ -296,38 +296,10 @@ disqus:
 
 # changyan
 changyan:
-  enable: false
+  enable: true
   appid: cyxBIboIr
   appkey: 953df9d73132412dc9f6fc627059d646
   count: true
-
-# Waline
-# For more information: https://waline.js.org, https://github.com/walinejs/waline
-waline:
-  enable: false # 是否开启
-  serverURL: test.ovolab.org # 服务端地址，我们这里就是上面部署的 Vercel 地址
-  placeholder: 请文明评论呀 #评论框的默认文字
-  avatar: mm # 头像风格
-  meta: [nick, mail, link] # 自定义评论框上面的三个输入框的内容
-  pageSize: 10 # 评论数量多少时显示分页
-  lang: zh-cn # 语言, 可选值: en, zh-cn
-  # Warning: 不要同时启用 `waline.visitor` 以及 `leancloud_visitors`.
-  visitor: false # 文章阅读统计
-  comment_count: false # 如果为 false , 评论数量只会在当前评论页面显示, 主页则不显示
-  requiredFields: [] # 设置用户评论时必填的信息，[nick,mail]: [nick] | [nick, mail]
-  libUrl: # Set custom library cdn url
-
-valine:
-  enable: true # 设置为true，默认为false
-  app_id: gkO3bXquh3ohpMeFv2kzaUaq-MdYXbMMI # 将应用key的App ID设置在这里
-  app_key: hwcJJGnglBF13ZpR6nuH5PjW # 将应用key的App Key设置在这里
-  notify: false # 邮箱通知 , https://github.com/xCss/Valine/wiki，默认为false
-  verify: false # 验证码 默认为false
-  placeholder: Just go go ^_^ # 初始化评论显示，根据自己修改，这里默认，
-  avatar: monsterid # 头像风格，默认为mm，可进入网址：https://valine.js.org/visitor.html查看头像设置，这里有许多头像风格，进行设置
-  guest_info: nick,mail,link # 自定义评论标题
-  pageSize: 10 # 分页大小，10页就自动分页
-  visitor: true # 是否允许游客评论 ，进入官网查看设置：https://valine.js.org/visitor.html
 
 # Gitalk
 # For more information: https://gitalk.github.io
