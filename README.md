@@ -32,6 +32,8 @@ mindmap
     id(issue report)
 ```
 
+At present we have an alternate [wiki site](https://wiki-mirror.bearcabbage.top/), which is constructed based on the MediaWiki engine.
+
 ## About This Repository
 
 > [!CAUTION]
