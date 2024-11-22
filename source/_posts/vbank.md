@@ -1,5 +1,5 @@
 ---
-title: VBank 日程活动记录
+title: VBank 日常活动记录
 date: 2024-11-23 00:30:00
 sticky: 0
 tags:
