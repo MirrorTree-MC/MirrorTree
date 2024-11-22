@@ -32,6 +32,8 @@ mindmap
     id(issue report)
 ```
 
+At present we have an alternate [wiki site](https://wiki-mirror.bearcabbage.top/) to be improved, which is constructed based on the MediaWiki engine.
+
 ## About This Repository
 
 > [!CAUTION]
@@ -109,6 +111,6 @@ A commit message should be clear and concise in order that problem dealing can b
 
 ```plaintext
 Copyright (c) 2024 MirrorTree
-Current version is Type M Edition 0.10
-2024.11.2
+Current version is Type M Edition 0.11
+2024.11.20
 ```

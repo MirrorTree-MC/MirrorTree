@@ -22,8 +22,6 @@ avatar:
   url: /images/logo.svg
   rounded: true
 
-darkmode: true
-
 # URL
 url: http://wiki.mirror.bearcabbage.top/
 permalink: :title/
@@ -60,6 +58,8 @@ highlight:
   line_number: false
   auto_detect: false
   tab_replace: ''
+  exclude_languages:
+    - mermaid
 
 # Allow to cache content generation.
 cache:

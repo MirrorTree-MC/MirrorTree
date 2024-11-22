@@ -22,7 +22,25 @@ custom_file_path:
 # scheme: Pisces
 scheme: Gemini
 
-darkmode: true
+darkmode: false
+
+# Darkmode JS
+# For more information: https://github.com/rqh656418510/hexo-next-darkmode, https://github.com/sandoche/Darkmode.js
+darkmode_js:
+  enable: true
+  bottom: '64px' # default: '32px'
+  right: 'unset' # default: '32px'
+  left: '32px' # default: 'unset'
+  time: '1s' # default: '0.3s'
+  mixColor: 'transparent' # default: '#fff'
+  backgroundColor: 'transparent' # default: '#fff'
+  buttonColorDark: '#100f2c' # default: '#100f2c'
+  buttonColorLight: '#fff' # default: '#fff'
+  isActivated: false # default false
+  saveInCookies: true # default: true
+  label: '🌓' # default: ''
+  autoMatchOsTheme: true # default: true
+  libUrl: # Set custom library cdn url for Darkmode.js
 
 
 # ============================================================= #
@@ -257,8 +275,13 @@ tabs:
     tabs: true
     labels: true
 
+# Mermaid tag
 mermaid:
   enable: true
+  # Available themes: default | dark | forest | neutral
+  theme:
+    light: default
+    dark: dark
 
 wavedrom:
   enable: true
@@ -287,7 +310,7 @@ motion:
 
 comments:
   lazyload: true
-  active: valine
+  active: isso
 
 disqus:
   enable: false
@@ -296,10 +319,14 @@ disqus:
 
 # changyan
 changyan:
-  enable: true
+  enable: false
   appid: cyxBIboIr
   appkey: 953df9d73132412dc9f6fc627059d646
   count: true
+
+# Isso
+# For more information: https://isso-comments.de
+isso: https://comments.mirror.bearcabbage.top/ # <data-isso>
 
 # Gitalk
 # For more information: https://gitalk.github.io
