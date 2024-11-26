@@ -68,7 +68,11 @@ tags:
 
 #### [VichainLee](/docs/server/players.html#VichainLee) 24.11.19
 
-提议很有效，我认可小熊白菜的全部提议awa
+提议很有效，我认可小熊白菜的全部提议 awa
+
+#### Anonymous 24.11.27
+
+讲真没人写可能真不是 Wiki的问题（），以及上面这些和现在的模板有啥本质矛盾吗
 
 ### 后续
 
