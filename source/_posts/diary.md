@@ -1,7 +1,7 @@
 ---
 title: 日记
 date: 2024-11-18 00:00:00
-sticky: 0
+sticky: 10
 tags:
   - 日记
 ---

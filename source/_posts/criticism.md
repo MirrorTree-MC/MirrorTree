@@ -22,11 +22,11 @@ tags:
 
 > "A wiki invites all users—not just experts—to edit any page or to create new pages within the wiki website, using only a standard 'plain-vanilla' Web browser without any extra add-ons." *翻译：“Wiki 网站邀请所有用户（而不仅仅是专家）在 Wiki 网站内编辑任何页面或创建新页面，仅使用标准的‘普通’网络浏览器，无需任何额外的附加组件。”* -  *The Wiki Way: Quick Collaboration on the Web* （转引自 [Wiki-Characteristics](https://en.wikipedia.org/wiki/Wiki#Characteristics)）
 
-[小熊白菜](/docs/server/players.html#小熊白菜) 认为，有别于少数权威或专家撰写 [说明文档](https://en.wikipedia.org/wiki/Software_documentation)，Wiki最本质的特征在于内容撰写的公众参与。为公众参与 Wiki 撰写提供尽可能的便利是网站建设的重点。
+[小熊白菜](/docs/server/players.html#小熊白菜) 认为，有别于少数权威或专家撰写 [说明文档](https://en.wikipedia.org/wiki/Software_documentation)，Wiki 最本质的特征在于内容撰写的公众参与。为公众参与 Wiki 撰写提供尽可能的便利是网站建设的重点。
 
 目前小屋以架设在 [GitHub Pages](https://docs.github.com/zh/pages/getting-started-with-github-pages/about-github-pages) 上的静态 markdown 站点实现，仅就网站本身而言，参与内容撰写需要登录一个已被加入到组织 [MirrorTree-MC](https://github.com/MirrorTree-MC) 的 GitHub 账号，通过上传/修改/删除 GitHub 仓库 [MirrorTree](https://github.com/MirrorTree-MC/MirrorTree) 中的 markdown 文件实现。 ~~（[小熊白菜](/docs/server/players.html#小熊白菜) 在此处并不想考虑写好之后在群里让 [Veritas](/docs/server/players.html#概要) 或 [AC](/docs/server/players.html#AC) 代发表的途径，并且歪曲本意地引用了 [AC](/docs/server/players.html#AC)“需要考虑社恐人群”的观点支撑）~~
 
-[小熊白菜](/docs/server/players.html#小熊白菜) 认为，考虑到棱镜树的玩家群体的广泛性群众性，以上内容撰写的渠道存在较高参与壁垒。一方面通过编辑GitHub仓库文件的方式撰写内容本身流程相比站内 Web 文本编辑器不够方便，另一方面 GitHub 在境内访问的强不稳定性或许导致相当比例的玩家尝试登录账号/加入组织/修改文件受阻。
+[小熊白菜](/docs/server/players.html#小熊白菜) 认为，考虑到棱镜树的玩家群体的广泛性群众性，以上内容撰写的渠道存在较高参与壁垒。一方面通过编辑 GitHub 仓库文件的方式撰写内容本身流程相比站内 Web 文本编辑器不够方便，另一方面 GitHub 在境内访问的强不稳定性或许导致相当比例的玩家尝试登录账号/加入组织/修改文件受阻。
 
 较高的参与壁垒势必会削弱大部分玩家撰写 Wiki 内容的意愿。[小熊白菜](/docs/server/players.html#小熊白菜) 认为，**这实际上筛选了可以参与 Wiki 编写的玩家**，可能会降低 Wiki 内容的公众性，同时影响充实 Wiki 内容的速度。
 
@@ -52,7 +52,7 @@ tags:
 
 ### 呈现形式匹配内容不佳
 
-[小熊白菜](/docs/server/players.html#小熊白菜) 认可形式应服务于内容与功能的理念，并且反对超出内容与功能需要的形式堆砌。对于 Wiki 网站，他认为其最主要的功能是内容阅读与信息快速检索 ~~（他在写这个页面的过程中从维基百科 [Wiki](https://en.wikipedia.org/wiki/Wiki) 页面了解到 Wiki 是夏威夷语 Quick 的意思）~~ ，并不需要与写作类博客 *（例如，[VichainLee](/docs/server/players.html#VichainLee) 的[报纸屋](https://v.bearcabbage.top/)）* 一样尝试通过网站主题奠定某种氛围基调。
+[小熊白菜](/docs/server/players.html#小熊白菜) 认可形式应服务于内容与功能的理念，并且反对超出内容与功能需要的形式堆砌。对于 Wiki 网站，他认为其最主要的功能是内容阅读与信息快速检索 ~~（他在写这个页面的过程中从维基百科 [Wiki](https://en.wikipedia.org/wiki/Wiki) 页面了解到 Wiki 是夏威夷语 Quick 的意思）~~ ，并不需要与写作类博客 *（例如，[VichainLee](/docs/server/players.html#VichainLee) 的 [报纸屋](https://v.bearcabbage.top/)）* 一样尝试通过网站主题奠定某种氛围基调。
 
 因此，[小熊白菜](/docs/server/players.html#小熊白菜) 曾多次试图游说 [Veritas](/docs/server/players.html#概要)（以及游说 [AC](/docs/server/players.html#AC) 帮自己劝说 [Veritas](/docs/server/players.html#概要)）换成 [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) 的传统 Wiki 软件；（截至 2024 年 11 月 19 日）游说没有起效。不过据 [小熊白菜](/docs/server/players.html#小熊白菜) 透露，他只是相对 [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki) 不那么喜欢目前的小屋模板 ~~(他说：救命甚至页面每个部件都有开屏动效x)~~，但并不反对继续用它。
 
