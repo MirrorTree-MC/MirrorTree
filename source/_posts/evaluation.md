@@ -108,106 +108,109 @@ tags:
 #### 致谢
 
 - 星球之墓
+  
+---
+### 球球展示
 
 1. 149基地
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_01.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_02.jpeg)
-2. 信标
+1. 信标
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_03.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_04.jpeg)
-3. 水与火之树
+1. 水与火之树
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_05.jpeg)
-4. 中央车站
+1. 中央车站
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_06.jpeg)
-5. 黑暗地牢妙妙屋
+1. 黑暗地牢妙妙屋
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_07.jpeg)
-6. lby的新城堡
+1. lby的新城堡
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_08.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_09.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_10.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_11.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_12.jpeg)
-7. 末地要塞球
+1. 末地要塞球
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_13.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_14.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_15.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_16.jpeg)
-8. 第一个刷线机
+1. 第一个刷线机
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_17.jpeg)
-9. lychh
+1. lychh
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_18.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_19.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_20.jpeg)
-10. 新主城出生点
+1.  新主城出生点
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_21.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_22.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_23.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_24.jpeg)
-11. 美西螈和悦灵球
+1.  美西螈和悦灵球
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_25.jpeg)
-12. 旧主城区
+1.  旧主城区
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_26.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_27.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_28.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_29.jpeg)
-13. 萨温的城堡
+1.  萨温的城堡
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_30.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_31.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_32.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_33.jpeg)
-14. 海龟之家
+1.  海龟之家
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_34.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_35.jpeg)
-15. 螺旋和教堂
+1.  螺旋和教堂
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_36.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_37.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_38.jpeg)
-16. xxbchhhor（螺旋城轻工业区）
+1.  xxbchhhor（螺旋城轻工业区）
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_39.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_40.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_41.jpeg)
-17. 唱片机球
+1.  唱片机球
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_42.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_43.jpeg)
-18. 亚特兰蒂斯要塞群 M01锚点
+1.  亚特兰蒂斯要塞群 M01锚点
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_44.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_45.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_46.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_47.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_48.jpeg)
-19. ybj的家
+1.  ybj的家
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_49.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_51.jpeg)
-20. 之字形楼梯
+1.  之字形楼梯
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_52.jpeg)
-21. 烈焰人的温馨小窝
+1.  烈焰人的温馨小窝
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_53.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_54.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_55.jpeg)
-22. AC的阴间小路
+1.  AC的阴间小路
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_56.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_57.jpeg)
-23. 门
+1.  门
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_58.jpeg)
-24. 《我这辈子最失败的建筑作品》
+1.  《我这辈子最失败的建筑作品》
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_59.jpeg)
-25. AC的阴间房间
+1.  AC的阴间房间
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_60.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_61.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_62.jpeg)
-26. 最早的下界传送门
+1.  最早的下界传送门
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_63.jpeg)
-27. 螺旋城地下通道
+1.  螺旋城地下通道
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_64.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_65.jpeg)
-28. 凋零骷髅的黑暗小窝
+1.  凋零骷髅的黑暗小窝
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_66.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_67.jpeg)
-29. 潜影海
+1.  潜影海
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_69.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_70.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_71.jpeg)
-30. 守望者尖塔
+1.  守望者尖塔
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_72.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_73.jpeg)
 ![](https://cos.bearcabbage.top/wp-content/uploads/2024/12/sphere_74.jpeg)
