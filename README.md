@@ -43,16 +43,16 @@ At present we have an alternate [wiki site](https://wiki-mirror.bearcabbage.top/
 
 You may follow the steps below to deploy the website locally. [Node.js](https://nodejs.org/zh-cn) is required for the deployment.
 
-```bash copy
+```bash
 # clone the repository and install the dependencies
 git clone https://github.com/MirrorTree-MC/MirrorTree.git
 cd MirrorTree
 npm install
 ```
 
-```bash copy
+```bash
 # start the local server
-hexo clean; hexo g -d
+hexo clean && hexo g -d
 hexo s
 ```
 
@@ -79,7 +79,7 @@ hexo s
 
 ### Documentation Norm
 
-The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document. Note that we use `###` instead of `#` as the top level heading in markdown posts, and that to insert a space between Chinese and English words is strongly recommended. See [Chinese Documentation Style Guide with Markdown](https://zhuanlan.zhihu.com/p/144446995) for more information.
+The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document. Note that to insert a space between Chinese and English words is strongly recommended. See [Chinese Documentation Style Guide with Markdown](https://zhuanlan.zhihu.com/p/144446995) for more information.
 
 > [!TIP]
 > Trick-playing is recommended when writing a document, indicating your expressions needn't be that *wikism*.
@@ -110,7 +110,7 @@ A commit message should be clear and concise in order that problem dealing can b
 [![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ```plaintext
-Copyright (c) 2024 MirrorTree
-Current version is Type M Edition 0.11
-2024.11.20
+Copyright (c) 2024-2025 MirrorTree
+Current version is Type M Edition 0.12
+2025.1.1
 ```

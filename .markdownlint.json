@@ -1,5 +1,7 @@
 {
     "commands-show-output": false,
     "line-length": false,
-    "no-bare-urls": false
+    "no-bare-urls": false,
+    "no-inline-html": false,
+    "first-line-h1": false
 }
