@@ -9,7 +9,8 @@ tags:
 
 ### 节日活动
 
-- [万圣节活动](/halloween/index.html)
+- [万圣节活动](/news/halloween.html)
+- [2024星球改造计划](/news/evaluation.html)
 
 ### 新作
 
