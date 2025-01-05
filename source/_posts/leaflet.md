@@ -51,7 +51,7 @@ Java 1.21.1 Leaves核心，致力于还原所有原版特性（基岩版加入�
 ### 世界故事背景
 
 > 本人授权转载自腐竹 VichainLee 的报纸屋丨灵感源于腐竹小熊白菜的糖果屋
-> 原文地址：[《棱镜树》 - 报纸屋](http://v.bearcabbage.top/index.php/archives/30/)
+> 原文地址：[《棱镜树》 - 报纸屋](https://vichain.cn/tale/30)
 
 这颗星球经历了两次世界末日。
 
