@@ -32,7 +32,7 @@ mindmap
     id(issue report)
 ```
 
-At present we have an alternate [wiki site](https://wiki-mirror.bearcabbage.top/) to be improved, which is constructed based on the MediaWiki engine.
+Currently, we have an alternate [wiki site](https://wiki-mirror.bearcabbage.top/) that is being enhanced. That site is built on the MediaWiki engine and is anticipated to be more user-friendly and more convenient for content editing. While [@BaicaiBear](https://github.com/BaicaiBear) suggests that players participate in the alternative one to reduce the difficulty of making chioces between the two wikis, the current site remains under maintenance and continues to welcome contributions.
 
 ## About This Repository
 
@@ -83,6 +83,21 @@ The documentation should be clear and concise in order that problem dealing can 
 
 > [!TIP]
 > Trick-playing is recommended when writing a document, indicating your expressions needn't be that *wikism*.
+
+In each page, you may add a table of page information (i.e. front matter) at the beginning of the document, which should be in the following format:
+
+```markdown
+---
+title: abc
+date: 2025-1-5 12:00:00
+sticky: 90
+tags:
+  - xyz
+---
+```
+
+> [!INFO]
+> The table above actually serves as the h1 title of the page, which is to say, you may begin with `##`, i.e. the h2 title, in each page.
 
 ### Git Norm
 
