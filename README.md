@@ -32,6 +32,9 @@ mindmap
     id(issue report)
 ```
 
+> [!WARNING]
+> The above diagram only covers the wiki part of the website, other categories excluded.
+
 Currently, we have an alternate [wiki site](https://wiki-mirror.bearcabbage.top/) that is being enhanced. That site is built on the MediaWiki engine and is anticipated to be more user-friendly and more convenient for content editing. While [@BaicaiBear](https://github.com/BaicaiBear) suggests that players participate in the alternative one to reduce the difficulty of making chioces between the two wikis, the current site remains under maintenance and continues to welcome contributions.
 
 ## About This Repository
@@ -96,7 +99,7 @@ tags:
 ---
 ```
 
-> [!INFO]
+> [!NOTE]
 > The table above actually serves as the h1 title of the page, which is to say, you may begin with `##`, i.e. the h2 title, in each page.
 
 ### Git Norm
