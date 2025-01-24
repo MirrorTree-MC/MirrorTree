@@ -23,7 +23,7 @@ avatar:
   rounded: true
 
 # URL
-url: http://wiki.mirror.bearcabbage.top/
+url: https://wiki.mirror.bearcabbage.top/
 permalink: :title/
 permalink_defaults:
 

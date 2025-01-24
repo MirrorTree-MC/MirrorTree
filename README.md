@@ -32,7 +32,10 @@ mindmap
     id(issue report)
 ```
 
-At present we have an alternate [wiki site](https://wiki-mirror.bearcabbage.top/) to be improved, which is constructed based on the MediaWiki engine.
+> [!WARNING]
+> The above diagram only covers the wiki part of the website, other categories excluded.
+
+Currently, we have an alternate [wiki site](https://wiki-mirror.bearcabbage.top/) that is being enhanced. That site is built on the MediaWiki engine and is anticipated to be more user-friendly and more convenient for content editing. While [@BaicaiBear](https://github.com/BaicaiBear) suggests that players participate in the alternative one to reduce the difficulty of making chioces between the two wikis, the current site remains under maintenance and continues to welcome contributions.
 
 ## About This Repository
 
@@ -43,16 +46,16 @@ At present we have an alternate [wiki site](https://wiki-mirror.bearcabbage.top/
 
 You may follow the steps below to deploy the website locally. [Node.js](https://nodejs.org/zh-cn) is required for the deployment.
 
-```bash copy
+```bash
 # clone the repository and install the dependencies
 git clone https://github.com/MirrorTree-MC/MirrorTree.git
 cd MirrorTree
 npm install
 ```
 
-```bash copy
+```bash
 # start the local server
-hexo clean; hexo g -d
+hexo clean && hexo g -d
 hexo s
 ```
 
@@ -79,10 +82,25 @@ hexo s
 
 ### Documentation Norm
 
-The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document. Note that we use `###` instead of `#` as the top level heading in markdown posts, and that to insert a space between Chinese and English words is strongly recommended. See [Chinese Documentation Style Guide with Markdown](https://zhuanlan.zhihu.com/p/144446995) for more information.
+The documentation should be clear and concise in order that problem dealing can be more efficient. You may follow the github markdown syntax when writing a document. Note that to insert a space between Chinese and English words is strongly recommended. See [Chinese Documentation Style Guide with Markdown](https://zhuanlan.zhihu.com/p/144446995) for more information.
 
 > [!TIP]
 > Trick-playing is recommended when writing a document, indicating your expressions needn't be that *wikism*.
+
+In each page, you may add a table of page information (i.e. front matter) at the beginning of the document, which should be in the following format:
+
+```markdown
+---
+title: abc
+date: 2025-1-5 12:00:00
+sticky: 90
+tags:
+  - xyz
+---
+```
+
+> [!NOTE]
+> The table above actually serves as the h1 title of the page, which is to say, you may begin with `##`, i.e. the h2 title, in each page.
 
 ### Git Norm
 
@@ -110,7 +128,7 @@ A commit message should be clear and concise in order that problem dealing can b
 [![CC BY-NC-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ```plaintext
-Copyright (c) 2024 MirrorTree
-Current version is Type M Edition 0.11
-2024.11.20
+Copyright (c) 2024-2025 MirrorTree
+Current version is Type M Edition 0.12
+2025.1.1
 ```
