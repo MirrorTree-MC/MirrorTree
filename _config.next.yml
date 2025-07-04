@@ -28,7 +28,7 @@ darkmode: false
 # For more information: https://github.com/rqh656418510/hexo-next-darkmode, https://github.com/sandoche/Darkmode.js
 darkmode_js:
   enable: true
-  bottom: '64px' # default: '32px'
+  bottom: '48px' # default: '32px'
   right: 'unset' # default: '32px'
   left: '32px' # default: 'unset'
   time: '1s' # default: '0.3s'
