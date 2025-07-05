@@ -5,8 +5,7 @@
 [![NPM version](https://img.shields.io/npm/v/hexo-theme-next?color=red&logo=npm&style=flat-square)](https://www.npmjs.com/package/hexo-theme-next)
 [![Required Hexo version](https://img.shields.io/badge/hexo-%3E=5.3.0-blue?style=flat-square&logo=hexo)](https://hexo.io)
 [![Static Badge](https://img.shields.io/badge/license-CC_4.0-red?style=flat-square&color=red&logo=Creative%20Commons)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![CodeQL](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/github-code-scanning/codeql)
-[![Deploy Hexo site to Pages](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml/badge.svg)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml)
+[![Page Deployment](https://img.shields.io/github/actions/workflow/status/MirrorTree-MC/MirrorTree/hexo.yaml?label=deployment&logo=github&style=flat-square)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml)
 
 > Once upon a time, there was a Mirror Tree.
 
