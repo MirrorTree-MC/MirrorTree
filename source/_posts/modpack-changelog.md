@@ -1,0 +1,67 @@
+---
+title: 棱镜树整合包更新日志
+date: 2025-07-05 12:00:00
+sticky: 70
+tags:
+  - 更新日志
+---
+
+### 2025/06/27 version 1.5.4
+
+- 清理模组，为新版本做准备。
+- 进行了一系列模组更新，现在它们都是最新的了。
+- 按 `X+C` 打开投影模组的菜单（如果忘记了快捷键，可以从模组列表中找到投影，然后查看快捷键设置）。
+- 附：常用快捷键列表：
+  - minihud：`H+C`
+  - 投影模组：`X+C`
+  - FTB 任务书：`L`
+  - 原版进度：`F12`
+  - 望远镜：`F7`
+- 使用 minihud 替换了 custom-hud 模组。但是非正式版将仍然使用 custom-hud 模组。
+- 暑假快乐（？）
+
+### 2025/03/21 version 1.5.3
+
+- 更新 Farmer's Delight 模组到 3.0.1 版本，同时增加了 adventurez 的自动更新。
+- 已知 Patchouli 模组与当前的自动更新存在冲突，请下载群内的 Patchouli 模组手动更新（悲）。
+
+### 2025/03/01 version 1.5.2
+
+- 补充 Patchouli 模组。
+
+### 2025/03/01 version 1.5.1
+
+- 添加了 MirrorTree 汉化语言包。汉化有 bug 的地方/希望添加的内容请在群内反馈。
+
+### 2025/02/12 version 1.5.0
+
+- 部分模组更新（均为小版本更新）
+  - Chatheads
+  - Farmer's Delight
+  - Sodium
+  - ...（有点忘了还有哪些，反正都是小更新，没有什么影响（雾））
+- 添加了 RewardZ 模组，用于实现每日签到功能。
+- 更新了 Mythic Metals 模组，由 Veriras 补完了剩余的中文翻译。同时，作者也修改了一系列工具的纹理并进行了平衡性调整（详见 modrinth 的更新日志）。
+- 元宵节快乐！
+
+### 2025/02/03 version 1.4.0
+
+- 更新 Chatheads 模组到 0.13.12 版本。
+- 添加优化模组，进一步优化游戏性能（发现玩家人数较多，所以引入了新的优化模组）。
+  - Very many players
+  - Lithium
+  - Sodium-extra
+  - Reese's Sodium Options
+- 引入了整合包管理模组 ModpackUtils，以便于管理整合包的更新（会提示从群内下载新版整合包）和配置。同时修改了游戏标题和进服欢迎语（请自行寻找亮点）。
+
+### 2025/02/01 version 1.3.5
+
+- 移除 Tweakeroo，有需要的玩家可以自行安装（该更改是考虑到新手使用 Tweakeroo 可能并不熟练）。
+- 添加了优化模组 threatenGL。其在硬件支持的情况下将会使用 OpenGL 4.6 替代 MC 默认的 3.2 版本，提高渲染性能。
+
+### 2025/01/31 version 1.3.0
+
+- 使用 CustomHud 模组替换 minihud，并加入了多彩字幕（colorfulsubtitles）模组。请参考 <https://www.mcmod.cn/class/4490.html> 中关于 CustomHud 的使用教程。整合包附带了一个名为 Test Profile 的配置文件，如果不想自行配置可以使用该文件。
+- 加入了现代化 UI 模组，改进界面显示效果。
+- 将 Tweakeroo 设置恢复默认。
+- 暂时移除幻想乡电台，并恢复为默认的 ReactiveMusic。有需要的幻想乡居民可以自行替换。

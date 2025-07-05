@@ -55,8 +55,7 @@ npm install
 
 ```bash
 # start the local server
-hexo clean && hexo g -d
-hexo s
+hexo clean && hexo s -g
 ```
 
 ### Core File Structure
