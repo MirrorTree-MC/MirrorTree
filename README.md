@@ -127,6 +127,6 @@ A commit message should be clear and concise in order that problem dealing can b
 
 ```plaintext
 Copyright (c) 2024-2025 MirrorTree
-Current version is Type M Edition 0.12
-2025.1.1
+Current version is Type M Edition 1.12
+2025.07.06
 ```
