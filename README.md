@@ -7,6 +7,9 @@
 [![Static Badge](https://img.shields.io/badge/license-CC_4.0-red?style=flat-square&color=red&logo=Creative%20Commons)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 [![Page Deployment](https://img.shields.io/github/actions/workflow/status/MirrorTree-MC/MirrorTree/hexo.yaml?label=deployment&logo=github&style=flat-square)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml)
 
+| [简体中文](./README_CN.md) | [English](./README.md) |
+| :-----------------------: | :--------------------: |
+
 > Once upon a time, there was a Mirror Tree.
 
 ## Introduction
