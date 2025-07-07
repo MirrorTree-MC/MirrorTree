@@ -7,7 +7,6 @@
     },
     "description": "Package for MirrorTree Wiki",
     "scripts": {
-        "highlight": "node lib/highlight.js",
         "start": "hexo clean && hexo s -g"
     },
     "repository": "MirrorTree-MC/MirrorTree",

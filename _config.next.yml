@@ -153,6 +153,10 @@ menu_settings:
 
 sidebar:
   position: left
+  # post   ->  Show sidebar only in posts which have index.
+  # always ->  Show sidebar in all pages.
+  # hide   ->  Hide it in all pages (but can be opened by user manually).
+  # remove ->  Remove sidebar totally.
   display: post
   padding: 18
   offset: 12
