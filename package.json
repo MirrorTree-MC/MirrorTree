@@ -1,45 +1,40 @@
 {
-    "name": "theme-next-docs",
-    "version": "8.20.0",
+    "name": "mirrortree-wiki",
+    "version": "1.12",
     "private": true,
     "hexo": {
-        "version": "7.2.0"
+        "version": "7.3.0"
     },
-    "description": "Elegant and powerful theme for Hexo.",
+    "description": "Package for MirrorTree Wiki",
     "scripts": {
-        "highlight": "node lib/highlight.js",
-        "start": "hexo s",
-        "update": "node lib/update.js",
-        "version": "git add source",
-        "lint": "markdownlint -c .markdownlint.json source/docs"
+        "start": "hexo clean && hexo s -g"
     },
-    "repository": "next-theme/theme-next-docs",
+    "repository": "MirrorTree-MC/MirrorTree",
     "keywords": [
         "hexo",
-        "theme",
+        "minecraft",
         "next"
     ],
-    "author": "iissnan <iissnan@gmail.com>",
+    "author": "MirrorTree <veritas.arch.z@gmail.com>",
     "license": "CC-BY-NC-SA-4.0",
     "bugs": {
-        "url": "https://github.com/next-theme/theme-next-docs/issues"
+        "url": "https://github.com/MirrorTree-MC/MirrorTree/issues"
     },
-    "homepage": "https://theme-next.js.org",
+    "homepage": "http://wiki.mirror.bearcabbage.top/",
     "dependencies": {
-        "hexo": "7.2.0",
+        "hexo": "7.3.0",
         "hexo-generator-archive": "2.0.0",
         "hexo-generator-feed": "3.0.0",
-        "hexo-generator-index": "3.0.0",
-        "hexo-generator-searchdb": "1.4.1",
-        "hexo-generator-tag": "2.0.0",
+        "hexo-generator-index": "4.0.0",
+        "hexo-generator-searchdb": "1.5.0",
         "hexo-next-darkmode": "^0.1.11",
-        "hexo-renderer-marked": "6.3.0",
+        "hexo-renderer-marked": "7.0.1",
         "hexo-renderer-stylus": "3.0.1",
         "hexo-server": "3.0.0",
         "hexo-tag-embed": "1.0.0",
-        "hexo-theme-next": "8.20.0"
+        "hexo-theme-next": "8.23.0"
     },
     "devDependencies": {
-        "markdownlint-cli": "0.40.0"
+        "chalk": "5.4.1"
     }
 }

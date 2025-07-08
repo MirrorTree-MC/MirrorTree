@@ -15,3 +15,7 @@ tags:
 ### 新作
 
 - [棱镜兽王园](/news/mt19.html)
+
+### 重要更新
+
+- [组织日志](/news/organization.html)

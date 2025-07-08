@@ -36,3 +36,34 @@
         }
     }
 }
+
+body {
+    background-image: url('/images/bg-night.png'); // 图片路径
+    background-repeat: no-repeat;            // 不重复
+    background-attachment: fixed;            // 固定背景
+    background-position: center center;      // 居中
+}
+
+opacity-main = 0.85
+
+// 文章透明度设置
+.post-block {
+    opacity: opacity-main;
+}
+
+// 侧边框的透明度设置
+.sidebar {
+    background-color: transparent;
+    opacity: opacity-main;
+}
+
+// 菜单栏的透明度设置
+.header-inner {
+    background: rgba(255,255,255,opacity-main);
+}
+
+// 搜索框（local-search）的透明度设置
+.popup {
+    opacity: opacity-main;
+}
+

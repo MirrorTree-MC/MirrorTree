@@ -1,7 +1,7 @@
 ---
 title: Wiki v0 介绍
 date: 2024-10-31 16:30:00
-sticky: 90
+sticky: 20
 ---
 
 ### Release v0

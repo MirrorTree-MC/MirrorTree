@@ -28,9 +28,9 @@ darkmode: false
 # For more information: https://github.com/rqh656418510/hexo-next-darkmode, https://github.com/sandoche/Darkmode.js
 darkmode_js:
   enable: true
-  bottom: '64px' # default: '32px'
-  right: 'unset' # default: '32px'
-  left: '32px' # default: 'unset'
+  bottom: '42px' # default: '32px'
+  right: '32px' # default: '32px'
+  left: 'unset' # default: 'unset'
   time: '1s' # default: '0.3s'
   mixColor: 'transparent' # default: '#fff'
   backgroundColor: 'transparent' # default: '#fff'
@@ -153,6 +153,10 @@ menu_settings:
 
 sidebar:
   position: left
+  # post   ->  Show sidebar only in posts which have index.
+  # always ->  Show sidebar in all pages.
+  # hide   ->  Hide it in all pages (but can be opened by user manually).
+  # remove ->  Remove sidebar totally.
   display: post
   padding: 18
   offset: 12
@@ -173,7 +177,7 @@ avatar:
 social:
   GitHub: https://github.com/MirrorTree-MC/MirrorTree || fab fa-github
   Alter: https://wiki-mirror.bearcabbage.top/index.php?title=%E5%B0%8F%E7%86%8A%E7%99%BD%E8%8F%9C%E7%9A%84%E7%8B%AC%E8%A3%81%E5%A4%A7%E5%AF%84 || fa fa-tree
-  Map: http://mirror.bearcabbage.top/ || fa fa-globe-asia
+  Map: http://map.bearcabbage.top:8100/#journey:-32:0:-80:1500:0:0:0:1:flat || fa fa-globe-asia
   QQ Group: https://qm.qq.com/q/8YKjmjwnGU || fa fa-rss
 
 social_icons:

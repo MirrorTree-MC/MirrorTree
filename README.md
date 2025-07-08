@@ -4,9 +4,11 @@
 
 [![NPM version](https://img.shields.io/npm/v/hexo-theme-next?color=red&logo=npm&style=flat-square)](https://www.npmjs.com/package/hexo-theme-next)
 [![Required Hexo version](https://img.shields.io/badge/hexo-%3E=5.3.0-blue?style=flat-square&logo=hexo)](https://hexo.io)
-[![CodeQL](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/github-code-scanning/codeql)
-[![Deploy Hexo site to Pages](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml/badge.svg)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml)
-[![GitHub license](https://img.shields.io/badge/license-CC_4.0-blue)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Static Badge](https://img.shields.io/badge/license-CC_4.0-red?style=flat-square&color=red&logo=Creative%20Commons)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Page Deployment](https://img.shields.io/github/actions/workflow/status/MirrorTree-MC/MirrorTree/hexo.yaml?label=deployment&logo=github&style=flat-square)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml)
+
+| [简体中文](./README_CN.md) | [English](./README.md) |
+| :-----------------------: | :--------------------: |
 
 > Once upon a time, there was a Mirror Tree.
 
@@ -55,8 +57,7 @@ npm install
 
 ```bash
 # start the local server
-hexo clean && hexo g -d
-hexo s
+hexo clean && hexo s -g
 ```
 
 ### Core File Structure
@@ -129,6 +130,6 @@ A commit message should be clear and concise in order that problem dealing can b
 
 ```plaintext
 Copyright (c) 2024-2025 MirrorTree
-Current version is Type M Edition 0.12
-2025.1.1
+Current version is Type M Edition 1.12
+2025.07.06
 ```
