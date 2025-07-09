@@ -7,14 +7,14 @@ date: 2024-11-2 00:00:00
 
 这里是棱镜树的玩家个人信息介绍。
 
-| ID | 名 | 称号 | 加入时间 | 注 |
-|:--:|:--:|:--:|:--:|:--:|
-| [AC_Mnky](#AC) | AC | 地下工作者 | 2024年 | AC is watching you |
-| [BaicaiBear](#小熊白菜) | 小熊白菜 | 腐竹 | 2024年 | 棱镜树的大独裁者 |
-| [YBJinOH](#YBJinOH) | ybj | 高铁 启动！ | 2024年 | 猫猫 |
-| [Horizon4003](#Horizon4003) | Horizon | 憨憨 | 2024年 | 动态石锥 |
-| [VichainLee](#VichainLee) | lyc | 腐竹 | 2024年 | 失败就是政变 |
-| [veritas_k](https://www.bilibili.com/video/BV1GJ411x7h7/) | Veritas | 世界的调律者 | 2024年 | main contributor of this wiki |
+|                            ID                             |    名    |     称号     | 加入时间 |              注               |
+| :-------------------------------------------------------: | :------: | :----------: | :------: | :---------------------------: |
+|                      [AC_Mnky](#AC)                       |    AC    |  地下工作者  |  2024年  |      AC is watching you       |
+|                  [BaicaiBear](#小熊白菜)                  | 小熊白菜 |     腐竹     |  2024年  |       棱镜树的大独裁者        |
+|                    [YBJinOH](#YBJinOH)                    |   ybj    | 高铁 启动！  |  2024年  |             猫猫              |
+|                [Horizon4003](#Horizon4003)                | Horizon  |     憨憨     |  2024年  |           动态石锥            |
+|                 [VichainLee](#VichainLee)                 |   lyc    |     腐竹     |  2024年  |         失败就是政变          |
+| [veritas_k](https://www.bilibili.com/video/BV1GJ411x7h7/) | Veritas  | 世界的调律者 |  2024年  | main contributor of this wiki |
 
 ### AC
 
