@@ -18,8 +18,8 @@ sticky: 0
 
 ### 服务器地址
 
-| 平台 | 服务器地址 | 端口 |
-|:--:|:--:|:--:|
+| 平台 |       服务器地址       | 端口  |
+| :--: | :--------------------: | :---: |
 | Java | mirror.bearcabbage.top | 25565 |
 | 基岩 | mirror.bearcabbage.top | 19133 |
 
@@ -105,6 +105,6 @@ Java 1.21.1 Leaves核心，致力于还原所有原版特性（基岩版加入�
 ### 【棱镜树】服务器玩家在线地图
 
 ~[3D主世界视图](http://mirror.bearcabbage.top/?worldname=world&mapname=surface&zoom=5&x=13&y=64&z=-36)~丨~[3D下界视图](http://mirror.bearcabbage.top/?worldname=world_nether&mapname=nether&zoom=6&x=-12&y=64&z=-56)~丨~[3D末地视图](http://mirror.bearcabbage.top/?worldname=world_the_end&mapname=the_end&zoom=6&x=16&y=64&z=-5)~
-~[2D主世界视图](http://mirror.bearcabbage.top/?worldname=world&mapname=flat&zoom=5&x=46&y=64&z=-30)~丨~[2D下界视图](http://mirror.bearcabbage.top/?worldname=world_nether&mapname=flat&zoom=6&x=34&y=64&z=3)~丨~[2D末地视图](http://mirror.bearcabbage.top/?worldname=world_the_end&mapname=flat&zoom=5&x=-3&y=64&z=0)~
+~[2D主世界视图](http://mirror.bearcabbage.top/?worldname=world&mapname=flat&zoom=5&x=46&y=64&z=-30)~   丨~[2D下界视图](http://mirror.bearcabbage.top/?worldname=world_nether&mapname=flat&zoom=6&x=34&y=64&z=3)~     丨~[2D末地视图](http://mirror.bearcabbage.top/?worldname=world_the_end&mapname=flat&zoom=5&x=-3&y=64&z=0)~
 
 ***就在等你啦吼吼吼！***

@@ -8,7 +8,7 @@
 [![Page Deployment](https://img.shields.io/github/actions/workflow/status/MirrorTree-MC/MirrorTree/hexo.yaml?label=deployment&logo=github&style=flat-square)](https://github.com/MirrorTree-MC/MirrorTree/actions/workflows/hexo.yaml)
 
 | [简体中文](./README_CN.md) | [English](./README.md) |
-| :-----------------------: | :--------------------: |
+| :------------------------: | :--------------------: |
 
 > Once upon a time, there was a Mirror Tree.
 
