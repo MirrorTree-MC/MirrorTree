@@ -28,19 +28,19 @@ darkmode: false
 # For more information: https://github.com/rqh656418510/hexo-next-darkmode, https://github.com/sandoche/Darkmode.js
 darkmode_js:
   enable: true
-  bottom: '42px' # default: '32px'
-  right: '32px' # default: '32px'
-  left: 'unset' # default: 'unset'
-  time: '1s' # default: '0.3s'
-  mixColor: 'transparent' # default: '#fff'
-  backgroundColor: 'transparent' # default: '#fff'
-  buttonColorDark: '#100f2c' # default: '#100f2c'
-  buttonColorLight: '#fff' # default: '#fff'
-  isActivated: false # default false
+  bottom: '42px'  # default: '32px'
+  right: '32px'   # default: '32px'
+  left: 'unset'   # default: 'unset'
+  time: '1s'      # default: '0.3s'
+  mixColor: 'transparent'         # default: '#fff'
+  backgroundColor: 'transparent'  # default: '#fff'
+  buttonColorDark: '#100f2c'      # default: '#100f2c'
+  buttonColorLight: '#fff'        # default: '#fff'
+  isActivated: false  # default false
   saveInCookies: true # default: true
-  label: '🌓' # default: ''
-  autoMatchOsTheme: true # default: true
-  libUrl: # Set custom library cdn url for Darkmode.js
+  label: '🌓'   # default: ''
+  autoMatchOsTheme: true  # default: true
+  libUrl:   # Set custom library cdn url for Darkmode.js
 
 
 # ============================================================= #
@@ -83,64 +83,11 @@ menu:
 
     Issue: /issue.html || fa fa-bug
 
-    # Getting Started:
-    #   default: /getting-started/ || fa fa-flag
-    #   Installation: /installation.html || fa fa-download
-    #   Deployment: /deployment.html || fa fa-upload
-    #   Configuration: /configuration.html || fa fa-wrench
-    #   Upgrade: /upgrade.html || fa fa-history
-
-    # Theme Settings:
-    #   default: /theme-settings/ || fa fa-star
-    #   Sidebar: /sidebar.html || fa fa-bars
-    #   Footer: /footer.html || fa fa-sticky-note
-    #   Posts: /posts.html || fa fa-paragraph
-    #   Custom Pages: /custom-pages.html || fa fa-swatchbook
-    #   Miscellaneous: /miscellaneous.html || fa fa-university
-    #   SEO: /seo.html || fa fa-external-link-square-alt
-    #   i18n: /internationalization.html || fa fa-language
-
-    # Tag Plugins:
-    #   default: /tag-plugins/ || fa fa-rocket
-    #   Button: /button.html || fa fa-cube
-    #   Caniuse: /caniuse.html || fa fa-signal
-    #   Group Pictures: /group-pictures.html || fa fa-images
-    #   Label: /label.html || fa fa-hat-wizard
-    #   Link Grid: /link-grid.html || fa fa-grip-vertical
-    #   Mermaid: /mermaid.html || fa fa-project-diagram
-    #   WaveDrom: /wavedrom.html || fa fa-diagram-predecessor
-    #   Note: /note.html || fa fa-adjust
-    #   PDF: /pdf.html || fa fa-file-pdf
-    #   Tabs: /tabs.html || fa fa-columns
-
-    # Third Party Plugins:
-    #   default: /third-party-services/ || fa fa-puzzle-piece
-    #   Math Equations: /math-equations.html || fa fa-square-root-alt
-    #   External Libraries: /external-libraries.html || fa fa-lightbulb
-    #   Comment Systems: /comments.html || fa fa-comment-alt
-    #   Post Widgets: /post-widgets.html || fa fa-gift
-    #   Statistics and Analytics: /statistics-and-analytics.html || fa fa-chart-pie
-    #   Search Services: /search-services.html || fab fa-algolia
-    #   Chat Services: /chat-services.html || fa fa-comments
-
-    # Advanced Settings:
-    #   default: /advanced-settings/ || fa fa-cog
-    #   Vendors: /vendors.html || fa fa-plug
-    #   Custom Files: /custom-files.html || fa fa-palette
-    #   Injects: injects.html || fa fa-layer-group
-    #   Front Matter: /front-matter.html || fa fa-edit
-
-    # Troubleshooting: /troubleshooting.html || fa fa-life-ring
-
   news:
     default: /news/ || 	fa fa-newspaper
 
   archives: /archives/ || fa fa-archive
   tags: /tags/ || fa fa-tags
-
-  # Plugins: /plugins/ || fa fa-flask
-  # sitemap: /sitemap.xml || fa fa-sitemap
-  # commonweal: /404/ || fa fa-heartbeat
 
 menu_settings:
   icons: true

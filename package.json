@@ -7,7 +7,7 @@
     },
     "description": "Package for MirrorTree Wiki",
     "scripts": {
-        "start": "hexo clean && hexo s -g"
+        "start": "hexo clean && hexo d -g && hexo s"
     },
     "repository": "MirrorTree-MC/MirrorTree",
     "keywords": [
