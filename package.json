@@ -1,6 +1,6 @@
 {
     "name": "mirrortree-wiki",
-    "version": "1.12",
+    "version": "1.12.2",
     "private": true,
     "hexo": {
         "version": "7.3.0"
